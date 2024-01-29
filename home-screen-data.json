@@ -5,6 +5,8 @@
       "title": "Stothras",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/stothras-data.json",
       "icon": "database",
+      "darkBackground": "#878683",
+      "lightBackground": "#1abc9c",
       "total": 12
     },
     {
@@ -12,6 +14,8 @@
       "title": "Bhajanas",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/bhajanas-data.json",
       "icon": "profile",
+      "darkBackground": "#878683",
+      "lightBackground": "#3498db",
       "total": 13
     }
   ]
