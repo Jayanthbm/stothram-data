@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Stothras",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/stothras-data.json",
+      "iconUrl": "https://jayanthbm.github.io/stothram-data/icons/database.svg"
+    },
+    {
+      "id": 2,
+      "title": "Bhajanas",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/bhajanas-data.json",
+      "iconUrl": "https://jayanthbm.github.io/stothram-data/icons/profile.svg"
+    }
+  ]
+}
