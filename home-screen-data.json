@@ -6,8 +6,7 @@
       "dataUrl": "https://jayanthbm.github.io/stothram-data/stothras-data.json",
       "icon": "database",
       "darkBackground": "#878683",
-      "lightBackground": "#1abc9c",
-      "total": 12
+      "lightBackground": "#1abc9c"
     },
     {
       "id": 2,
@@ -15,8 +14,7 @@
       "dataUrl": "https://jayanthbm.github.io/stothram-data/bhajanas-data.json",
       "icon": "profile",
       "darkBackground": "#878683",
-      "lightBackground": "#3498db",
-      "total": 13
+      "lightBackground": "#3498db"
     }
   ]
 }
