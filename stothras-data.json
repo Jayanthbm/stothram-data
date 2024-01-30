@@ -1,3 +1,151 @@
 {
-  "data": []
+  "data": [
+    {
+      "id": 1,
+      "title": "VishnuSahasranamam",
+      "displayTitle": "ವಿಷ್ಣು ಸಹಸ್ರ ನಾಮ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/VishnuSahasranamam.json"
+    },
+    {
+      "id": 2,
+      "title": "Dashavatara",
+      "displayTitle": "ದಶಾವತಾರ ಸ್ತೋತ್ರಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Dashavatara.json"
+    },
+    {
+      "id": 3,
+      "title": "Hayagriva",
+      "displayTitle": "ಹಯಗ್ರೀವ ಸ್ತೋತ್ರಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Hayagriva.json"
+    },
+    {
+      "id": 4,
+      "title": "GopalaVimshathi",
+      "displayTitle": "ಗೋಪಾಲ ವಿಂಶತಿ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/GopalaVimshathi.json"
+    },
+    {
+      "id": 5,
+      "title": "MukundaMala",
+      "displayTitle": "ಮುಕುಂದಮಾಲಾ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/MukundaMala.json"
+    },
+    {
+      "id": 6,
+      "title": "GodaStuti",
+      "displayTitle": "ಗೋದಾ ಸ್ತುತಿಃ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/GodaSthuti.json"
+    },
+    {
+      "id": 7,
+      "title": "SriStuti",
+      "displayTitle": "ಶ್ರೀಸ್ತುತಿಃ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/SriStuti.json"
+    },
+    {
+      "id": 8,
+      "title": "Jitante",
+      "displayTitle": "ಜಿತಂತೇ ಸ್ತೋತ್ರಂ",
+
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Jitante.json"
+    },
+    {
+      "id": 9,
+      "title": "RaghuveeraGadya",
+      "displayTitle": " ಶ್ರೀ ರಘುವೀರ ಗದ್ಯಂ",
+
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/RaghuveeraGadya.json"
+    },
+    {
+      "id": 10,
+      "title": "Tiruppavai",
+      "displayTitle": "ತಿರುಪ್ಪಾವೈ",
+
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Tiruppavai.json"
+    },
+    {
+      "id": 11,
+      "title": "KanninunShiruttamb",
+      "displayTitle": "ಕಣ್ಣಿನುಣ್ ಶಿರುತ್ತಾಮ್ಬು",
+
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/KanninunShiruttamb.json"
+    },
+    {
+      "id": 12,
+      "title": "Tirupalland",
+      "displayTitle": "ತಿರುಪ್ಪಲ್ಲಾಂಡು",
+
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Tirupalland.json"
+    },
+    {
+      "id": 13,
+      "title": "Shatumurai",
+      "displayTitle": "ಶಾತ್ತುಮರೈ",
+
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Shatumurai.json"
+    },
+    {
+      "id": 14,
+      "title": "ShatumuraiValitirunam",
+      "displayTitle": "ಶಾತ್ತುಮರೈ & ವಾಳಿತ್ತಿರುನಾಮಮ್",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/ShatumuraiValitirunam.json"
+    },
+    {
+      "id": 15,
+      "title": "Tirupalliyucchi",
+      "displayTitle": "ತಿರುಪ್ಪಳ್ಳಿಯೆಳುಚ್ಚಿ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Tirupalliyucchi.json"
+    },
+    {
+      "id": 16,
+      "title": "DeshikaMangalam",
+      "displayTitle": "ಶ್ರೀ ದೇಶಿಕಮಂಗಳಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/DeshikaMangalam.json"
+    },
+    {
+      "id": 17,
+      "title": "Sudarshanastaka",
+      "displayTitle": "ಶ್ರೀ ಸುದರ್ಶನ ಅಷ್ಟಕಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Sudarshanastaka.json"
+    },
+    {
+      "id": 18,
+      "title": "GarudaDandakam",
+      "displayTitle": "ಶ್ರೀ ಗರುಡ ದಂಡಕಂ",
+
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/GarudaDandakam.json"
+    },
+    {
+      "id": 19,
+      "title": "Nyasadashaka",
+      "displayTitle": "ಶ್ರೀ ನ್ಯಾಸದಶಕಂ",
+
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Nyasadashaka.json"
+    },
+    {
+      "id": 20,
+      "title": "Amaladipiran",
+      "displayTitle": "ಅಮಲನಾದಿಪಿರಾನ್",
+
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Amaladipiran.json"
+    },
+    {
+      "id": 21,
+      "title": "ChaturShloki",
+      "displayTitle": "ಚತುಶ್ಲೋಕೀ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/ChaturShloki.json"
+    },
+    {
+      "id": 22,
+      "title": "AdithyaHrudayam",
+      "displayTitle": "ಆದಿತ್ಯ ಹೃದಯಮ್",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/AdithyaHrudayam.json"
+    },
+    {
+      "id": 23,
+      "title": "Ramaraksha",
+      "displayTitle": "ಶ್ರೀ ರಾಮ ರಕ್ಷಾ ಸ್ತೋತ್ರಮ್",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Ramaraksha.json"
+    }
+  ]
 }
