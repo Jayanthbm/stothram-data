@@ -18,5 +18,9 @@
     }
   ],
   "UPI_ID":"8892218@ybl",
-  "UPI_AMOUNTS":[1,10,50]
+  "upi_data":{
+     "upi_amounts":[1,10,50],
+     "payee_name":"Stothram",
+     "transaction_note":"Contribute to Stothram"
+    }
 }
