@@ -4,121 +4,121 @@
       "id": 1,
       "title": "Hanuman Chalisa",
       "displayTitle": "ಹನುಮಾನ್ ಚಾಲಿಸಾ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/HanumanChalisa.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/HanumanChalisa.json"
     },
     {
       "id": 2,
       "title": "HanumaneThandayu",
       "displayTitle": "ಹನುಮನೆ ತಂದೆಯೂ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/HanumaneThandayu.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/HanumaneThandayu.json"
     },
     {
       "id": 3,
       "title": "Dheera Maruthi Gambeera Maruthi",
       "displayTitle": "ಧೀರ ಮಾರುತಿ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/DheeraMaruthi.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/DheeraMaruthi.json"
     },
     {
       "id": 4,
       "title": "KodandaRama",
       "displayTitle": "ಕೋದಂಡರಾಮ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/KodandaRama.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/KodandaRama.json"
     },
     {
       "id": 5,
       "title": "Thugire Rangana Thugire Krishnana",
       "displayTitle": "ತೂಗಿರೆ ರಂಗನ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/ThugireRangana.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/ThugireRangana.json"
     },
     {
       "id": 6,
       "title": "RamaLali",
       "displayTitle": "ರಾಮ ಲಾಲಿ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/RamaLali.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/RamaLali.json"
     },
     {
       "id": 7,
       "title": "Sreenivasa Neene Paliso",
       "displayTitle": "ಶ್ರೀನಿವಾಸ ನೀನೇ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/SreenivasaNeenePaliso.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/SreenivasaNeenePaliso.json"
     },
     {
       "id": 8,
       "title": "Harinarayana",
       "displayTitle": "ಹರಿನಾರಾಯಣ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Harinarayana.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/Harinarayana.json"
     },
     {
       "id": 9,
       "title": "HigguveYaako",
       "displayTitle": "ಹಿಗ್ಗುವೆ ಯಾಕೋ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/HigguveYaako.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/HigguveYaako.json"
     },
     {
       "id": 10,
       "title": "RamaRakshiso",
       "displayTitle": "ರಾಮ ರಕ್ಷಿಸೋ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/RamaRakshiso.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/RamaRakshiso.json"
     },
     {
       "id": 11,
       "title": "SriramChandirane",
       "displayTitle": "ಶ್ರೀ ರಾಮಚಂದಿರನೆ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/SriramChandirane.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/SriramChandirane.json"
     },
     {
       "id": 12,
       "title": "ShuddaBrahma",
       "displayTitle": "ಶುದ್ಧಬ್ರಹ್ಮ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/ShuddaBrahma.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/ShuddaBrahma.json"
     },
     {
       "id": 13,
       "title": "SriRamaManagala",
       "displayTitle": "ಶ್ರೀ ರಾಮ ಮಂಗಳ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/SriRamaManagala.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/SriRamaManagala.json"
     },
     {
       "id": 14,
       "title": "RadheGovindha",
       "displayTitle": "ರಾಧೆ ಗೋವಿಂದಾ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/RadheGovindha.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/RadheGovindha.json"
     },
     {
       "id": 15,
       "title": "JayaJayaVitala",
       "displayTitle": "ಜೈ ವಿಟ್ಟಲಾ ಪಾಂಡುರಂಗ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/JayaJayaVitala.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/JayaJayaVitala.json"
     },
     {
       "id": 16,
       "title": "Biduvanayya",
       "displayTitle": "ಬಿಡುವೇನೇನಯ್ಯಾ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Biduvanayya.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/Biduvanayya.json"
     },
     {
       "id": 17,
       "title": "RadheShyam",
       "displayTitle": "ರಾಧೇಶ್ಯಾಮ್‌",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/RadheShyam.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/RadheShyam.json"
     },
     {
       "id": 18,
       "title": "BhajaYatirajam",
       "displayTitle": "ಭಜ ಯತಿರಾಜಂ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/BhajaYatirajam.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/BhajaYatirajam.json"
     },
     {
       "id": 18,
       "title": "Nee yenna kayabekayya",
       "displayTitle": "ನೀ ಎನ್ನ ಕಾಯಬೇಕಯ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/NeeYennaKayabekayya.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/NeeYennaKayabekayya.json"
     },
     {
       "id": 20,
       "title": "Hare Krishna Mantram",
       "displayTitle": "ಹರೇ ಕೃಷ್ಣ ಮಂತ್ರಂ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/HareKrishnaMantram.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/HareKrishnaMantram.json"
     }
   ]
 }

@@ -15,9 +15,17 @@
       "icon": "profile",
       "darkBackground": "#878683",
       "lightBackground": "#3498db"
+    },
+    {
+      "id": 3,
+      "title": "Shattumorai",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/shattumorai-data.json",
+      "icon": "database",
+      "darkBackground": "#878683",
+      "lightBackground": "#1abc9c"
     }
   ],
-  "UPI_ID":"9731480655@ybl",
+  "UPI_ID":"EZE0223420@CUB",
   "upi_data":{
      "upi_amounts":[1,5,10,50],
      "payee_name":"Stothram",
