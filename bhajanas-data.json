@@ -115,6 +115,12 @@
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/NeeYennaKayabekayya.json"
     },
     {
+      "id": 19,
+      "title": "Sri Rama Krishna Bhajane",
+      "displayTitle": "ಶ್ರೀರಾಮ ಕೃಷ್ಣ ಭಜನೆ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/RamaKrishnaBhajane.json"
+    },
+    {
       "id": 20,
       "title": "Hare Krishna Mantram",
       "displayTitle": "ಹರೇ ಕೃಷ್ಣ ಮಂತ್ರಂ",
