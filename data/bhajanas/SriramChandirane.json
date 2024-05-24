@@ -11,30 +11,112 @@
     {
       "type": "paragraph",
       "lines": [
-        "1.ದಶರಥ ಪುತ್ತಿರನೆ ದಶಾರಮಿತ್ತಿರನೆ",
-        "ಕಾಟಕ ಸಂಹಾರನೆ ರಾಮ್ ರಾಮ್ ರಾಮ್"
+        "ದಶರಥ ಪುತ್ತಿರನೆ ದಶಾರಮಿತ್ತಿರನೆ",
+        "ಕಾಟಕ ಸಂಹಾರನೆ ರಾಮ್ ರಾಮ್ ರಾಮ್ ||1||"
       ]
     },
     {
       "type": "paragraph",
       "lines": [
-        "2. ವೈಕುಂಠವಾಸನೆ ವನವಿಹಾರನೆ",
-        "ಶೇಷಾದ್ರಿಶಯನನೆ ರಾಮ್ ರಾಮ್ ರಾಮ್"
+        "ವೈಕುಂಠವಾಸನೆ ವನವಿಹಾರನೆ",
+        "ಶೇಷಾದ್ರಿಶಯನನೆ ರಾಮ್ ರಾಮ್ ರಾಮ್ ||2||"
       ]
     },
     {
       "type": "paragraph",
       "lines": [
-        "3. ಪಾಲನೆ ಪರಿಪಾಲನೆ ಗೋಕುಲ ಸುಂದರನೆ ಗೋಪೀಕುಮಾರನೆ",
-        "ಗೋವಿಂದ ರಮಣನೆ ರಾಮ್ ರಾಮ್ ರಾಮ್"
+        "ಪಾಲನೆ ಪರಿಪಾಲನೆ ಗೋಕುಲ ಸುಂದರನೆ ಗೋಪೀಕುಮಾರನೆ",
+        "ಗೋವಿಂದ ರಮಣನೆ ರಾಮ್ ರಾಮ್ ರಾಮ್ ||3||"
       ]
     },
     {
       "type": "paragraph",
       "lines": [
-        "4. ಸಾರ ಸುಗುಣ ಶರೀರನೆ, ರಾಮಾಭಿರಾಮನೆ ರಘುಕುಲ ಸೋಮನೆ,",
-        "ಜಾನಕೀಯ ವಲ್ಲಭನೆ ರಾಮ್ ರಾಮ್ ರಾಮ್"
+        "ಸಾರ ಸುಗುಣ ಶರೀರನೆ, ರಾಮಾಭಿರಾಮನೆ ರಘುಕುಲ ಸೋಮನೆ",
+        "ಜಾನಕೀಯ ವಲ್ಲಭನೆ ರಾಮ್ ರಾಮ್ ರಾಮ್ ||4||"
       ]
     }
-  ]
+  ],
+  "translations":{
+    "kn":{
+      "title": "ಶ್ರೀ ರಾಮಚಂದಿರನೆ ಶ್ರೀ ಲೋಲ ಸುಂದರನೆ",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಶ್ರೀ ರಾಮಚಂದಿರನೆ ಶ್ರೀ ಲೋಲ ಸುಂದರನೆ",
+            "ಶ್ರೀಮನ್ನಾರಾಯಣ ರಾಮ್ ರಾಮ್ ರಾಮ್"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ದಶರಥ ಪುತ್ತಿರನೆ ದಶಾರಮಿತ್ತಿರನೆ",
+            "ಕಾಟಕ ಸಂಹಾರನೆ ರಾಮ್ ರಾಮ್ ರಾಮ್ ||1||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ವೈಕುಂಠವಾಸನೆ ವನವಿಹಾರನೆ",
+            "ಶೇಷಾದ್ರಿಶಯನನೆ ರಾಮ್ ರಾಮ್ ರಾಮ್ ||2||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಪಾಲನೆ ಪರಿಪಾಲನೆ ಗೋಕುಲ ಸುಂದರನೆ ಗೋಪೀಕುಮಾರನೆ",
+            "ಗೋವಿಂದ ರಮಣನೆ ರಾಮ್ ರಾಮ್ ರಾಮ್ ||3||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಸಾರ ಸುಗುಣ ಶರೀರನೆ, ರಾಮಾಭಿರಾಮನೆ ರಘುಕುಲ ಸೋಮನೆ",
+            "ಜಾನಕೀಯ ವಲ್ಲಭನೆ ರಾಮ್ ರಾಮ್ ರಾಮ್ ||4||"
+          ]
+        }
+      ]
+    },
+    "en":{
+      "title": "Sri Ramachandirane Sri Lola Sundarane",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "Sri Ramachandirane Sri Lola Sundarane",
+            "Srimannarayana Ram Ram Ram"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Dasharatha puttirane Dasharamittirane",
+            "Kaataka samhaaranane Ram Ram Ram ||1||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Vaikunthavaasane Vanavihaarane",
+            "Sheshaadri shayanane Ram Ram Ram ||2||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Paalane Paripaalane Gokula Sundarane Gopikumaarane",
+            "Govinda ramane Ram Ram Ram ||3||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Saara suguna shareerane, Ramaabhiramane Raghu kula somane",
+            "Janakiya vallabhane Ram Ram Ram ||4||"
+          ]
+        }
+      ]
+    }
+  }
 }

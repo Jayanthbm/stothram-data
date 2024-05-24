@@ -4,8 +4,8 @@
     {
       "type": "paragraph",
       "lines": [
-        "ನೀ ಎನ್ನ ಕಾಯಬೇಕಯ್ಯ  ಆಂಜನೇಯ ನೀ ಎನ್ನ ಕಾಯಬೇಕಯ್ಯ",
-        "ನೀ ಎನ್ನ ಕಾಯಬೇಕು ನಾನು ನಿನ್ನ ಭಜಿಸಬೇಕು  ನಾನು ನೀನು ಒಂದುಗೂಡಿ ರಾಮ ಭಜನೆಯ ಮಾಡಬೇಕಯ್ಯ"
+        "ನೀ ಎನ್ನ ಕಾಯಬೇಕಯ್ಯ ಆಂಜನೇಯ ನೀ ಎನ್ನ ಕಾಯಬೇಕಯ್ಯ",
+        "ನೀ ಎನ್ನ ಕಾಯಬೇಕು ನಾನು ನಿನ್ನ ಭಜಿಸಬೇಕು ನಾನು ನೀನು ಒಂದುಗೂಡಿ ರಾಮ ಭಜನೆಯ ಮಾಡಬೇಕಯ್ಯ"
       ]
     },
     {
@@ -17,8 +17,58 @@
     {
       "type": "paragraph",
       "lines": [
-        "ಆ ಬ್ರಹ್ಮಚಾರಿ ನೀನು  ಅದ್ವಿತೀಯ ಬಲಶಾಲಿ ನೀನು ರಾಮಭಕ್ತಿ ಭಂಡಾರವನು ಲೋಕಕೆಲ್ಲ ಸಾರಿದವನು"
+        "ಆ ಬ್ರಹ್ಮಚಾರಿ ನೀನು ಅದ್ವಿತೀಯ ಬಲಶಾಲಿ ನೀನು ರಾಮಭಕ್ತಿ ಭಂಡಾರವನು ಲೋಕಕೆಲ್ಲ ಸಾರಿದವನು"
       ]
     }
-  ]
+  ],
+  "translations": {
+    "kn": {
+      "title": "ನೀ ಎನ್ನ ಕಾಯಬೇಕಯ",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "ನೀ ಎನ್ನ ಕಾಯಬೇಕಯ್ಯ ಆಂಜನೇಯ ನೀ ಎನ್ನ ಕಾಯಬೇಕಯ್ಯ",
+            "ನೀ ಎನ್ನ ಕಾಯಬೇಕು ನಾನು ನಿನ್ನ ಭಜಿಸಬೇಕು ನಾನು ನೀನು ಒಂದುಗೂಡಿ ರಾಮ ಭಜನೆಯ ಮಾಡಬೇಕಯ್ಯ"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ದುಸ್ತರದಿ ಸಂಸಾರ ಜಲಧಿಯನು ರಾಮನಾಮದ ನೌಕೆಯಲ್ಲಿ ದಾಟಲು ಹೊರಟಿಹ ಪಯಣಿಗ ನಾನು ದಾಟಿಸಯ್ಯ ಅಂಬಿಗ ನೀನು"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಆ ಬ್ರಹ್ಮಚಾರಿ ನೀನು ಅದ್ವಿತೀಯ ಬಲಶಾಲಿ ನೀನು ರಾಮಭಕ್ತಿ ಭಂಡಾರವನು ಲೋಕಕೆಲ್ಲ ಸಾರಿದವನು"
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Nee Enna Kaayabekayya",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "Nee enna kaayabekayya Aanjaneya nee enna kaayabekayya",
+            "Nee enna kaayabeku naanu ninna bhajisabeku naanu neenu ondugoodi Rama bhajaneya maadabekayya"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Dustaradi samsara jaladhiyanu Ramanamada naukeyalli daatalu horatiha payaniga naanu daatisayya ambiga neenu"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Aa brahmachaari neenu advitiya balashaali neenu Ramabhakti bhandaaraavanu lokakella saaridavanu"
+          ]
+        }
+      ]
+    }
+  }
 }

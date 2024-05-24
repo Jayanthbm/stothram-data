@@ -4,43 +4,137 @@
     {
       "type": "paragraph",
       "lines": [
-        "ರಾಮ ರಕ್ಷಿಸೋ  ಪ್ರೆಮದಿಂದಲಿ ಕಾಮಿತಾರ್ಥ ಫಲವನಿತ್ತು ಭೂಮಿಜಾ ಪತೆ "
+        "ರಾಮ ರಕ್ಷಿಸೋ ಪ್ರೆಮದಿಂದಲಿ ಕಾಮಿತಾರ್ಥ ಫಲವನಿತ್ತು ಭೂಮಿಜಾ ಪತೆ"
       ]
     },
     {
       "type": "paragraph",
       "lines": [
-        "ಅಹಹ ಏನಿದೋ ಆಶ್ಚರ್ಯ ವಾದುದೋ ರಾಮಚಂದ್ರ ನಿನ್ನ ದಯವು ಭಾರದ್ಯಾವುದೋ ",
-        "( ರಾಮ ) "
+        "ಅಹಹ ಏನಿದೋ ಆಶ್ಚರ್ಯ ವಾದುದೋ ರಾಮಚಂದ್ರ ನಿನ್ನ ದಯವು ಭಾರದ್ಯಾವುದೋ",
+        "(ರಾಮ)"
       ]
     },
     {
       "type": "paragraph",
       "lines": [
-        "ಬೇಡ ಬೇಡವೋ ಬೇಟೆಯಾಟವೋ ಕಾಡ ತಿರುಗಿ ತಿರುಗಿ ಮೈ ಬಾಡಿತಲ್ಲವೋ ",
-        "( ರಾಮ ) "
+        "ಬೇಡ ಬೇಡವೋ ಬೇಟೆಯಾಟವೋ ಕಾಡ ತಿರುಗಿ ತಿರುಗಿ ಮೈ ಬಾಡಿತಲ್ಲವೋ",
+        "(ರಾಮ)"
       ]
     },
     {
       "type": "paragraph",
       "lines": [
         "ಚರಣನಲ್ಲವೆ ನೀ ಕರುಣಿ ಯಲ್ಲವೇ ಅರುಣ ಕಿರಣ ಚರಣ ನೀ ರಮಣ ನಲ್ಲವೇ",
-        "( ರಾಮ ) "
+        "(ರಾಮ) "
       ]
     },
     {
       "type": "paragraph",
       "lines": [
         "ಮೌನಿ ಮಾನಸ ಕಾರುಣ್ಯಾಕರ ರಾಮಚಂದ್ರ ರಾಘವೇಂದ್ರ ಜಾನಕೀ ವರ",
-        "( ರಾಮ ) "
+        "(ರಾಮ)"
       ]
     },
     {
       "type": "paragraph",
       "lines": [
         "ದಶರಥ ಸುತ ದೇವ ದೇವನೇ ಕುಶಿಕಯಜ್ಞ ರಕ್ಷಿಸೋ ನೀ ಸಲಹು ಎನ್ನನು",
-        "( ರಾಮ ) "
+        "(ರಾಮ)"
       ]
     }
-  ]
+  ],
+  "translations": {
+    "kn":{
+      "title": "ರಾಮ ರಕ್ಷಿಸೋ",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "ರಾಮ ರಕ್ಷಿಸೋ ಪ್ರೆಮದಿಂದಲಿ ಕಾಮಿತಾರ್ಥ ಫಲವನಿತ್ತು ಭೂಮಿಜಾ ಪತೆ"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಅಹಹ ಏನಿದೋ ಆಶ್ಚರ್ಯ ವಾದುದೋ ರಾಮಚಂದ್ರ ನಿನ್ನ ದಯವು ಭಾರದ್ಯಾವುದೋ",
+            "(ರಾಮ)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಬೇಡ ಬೇಡವೋ ಬೇಟೆಯಾಟವೋ ಕಾಡ ತಿರುಗಿ ತಿರುಗಿ ಮೈ ಬಾಡಿತಲ್ಲವೋ",
+            "(ರಾಮ)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಚರಣನಲ್ಲವೆ ನೀ ಕರುಣಿ ಯಲ್ಲವೇ ಅರುಣ ಕಿರಣ ಚರಣ ನೀ ರಮಣ ನಲ್ಲವೇ",
+            "(ರಾಮ) "
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಮೌನಿ ಮಾನಸ ಕಾರುಣ್ಯಾಕರ ರಾಮಚಂದ್ರ ರಾಘವೇಂದ್ರ ಜಾನಕೀ ವರ",
+            "(ರಾಮ)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ದಶರಥ ಸುತ ದೇವ ದೇವನೇ ಕುಶಿಕಯಜ್ಞ ರಕ್ಷಿಸೋ ನೀ ಸಲಹು ಎನ್ನನು",
+            "(ರಾಮ)"
+          ]
+        }
+      ]
+    },
+    "en":{
+      "title": "Rama Rakshiso",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "Rama rakshiso premadali kamitartha phalavannittu bhoomija pathe"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Ahaha enido aashcharya vaadudo Ramachandra ninna dayavu bhaaradyavudo",
+            "(Rama)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Beda bedavo beteyaataavo kaada tirugi tirugi mai baaditallavo",
+            "(Rama)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Charananalle nee karuni yallave aruna kirana charana nee ramana nallave",
+            "(Rama)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Mauni maanasa kaarunyakara Ramachandra raghavendr Janaki vara",
+            "(Rama)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Dasharatha suta deva devane Kushikayajna rakshiso nee salahu ennanu",
+            "(Rama)"
+          ]
+        }
+      ]
+    }
+  }
 }

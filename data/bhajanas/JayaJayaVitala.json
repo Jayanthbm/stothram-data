@@ -37,7 +37,7 @@
         "ಬಂಧುಬಳಗವು ಪಾಂಡುರಂಗ",
         "ತಂದೆ ತಾಯಿಯು ಪಾಂಡುರಂಗ",
         "ಬಂಧುಬಳಗವು ಪಾಂಡುರಂಗ",
-        "ಜೈ ಜೈ ವಿಟ್ಟಲಾ "
+        "ಜೈ ಜೈ ವಿಟ್ಟಲಾ"
       ]
     },
     {
@@ -47,7 +47,7 @@
         "ಬುದ್ದಿ ಕಲಿಸುವ ಪಾಂಡುರಂಗ",
         "ವಿದ್ಯೆ ಹೇಳುವ ಪಾಂಡುರಂಗ",
         "ಬುದ್ದಿ ಕಲಿಸುವ ಪಾಂಡುರಂಗ",
-        "ಜೈ ಜೈ ವಿಟ್ಟಲಾ "
+        "ಜೈ ಜೈ ವಿಟ್ಟಲಾ"
       ]
     },
     {
@@ -74,5 +74,169 @@
       "type": "paragraph",
       "lines": ["ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ", "ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ"]
     }
-  ]
+  ],
+  "translations":{
+    "kn":{
+      "title": "ಜೈ ಜೈ ವಿಟ್ಟಲಾ ಪಾಂಡುರಂಗ",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಜೈ ಜೈ ವಿಟ್ಟಲಾ ಪಾಂಡುರಂಗ",
+            "ಜೈ ಹರಿ ವಿಟ್ಟಲಾ ಪಾಂಡುರಂಗ",
+            "ಜೈ ಜೈ ವಿಟ್ಟಲಾ ಪಾಂಡುರಂಗ",
+            "ಜೈ ಹರಿ ವಿಟ್ಟಲಾ ಪಾಂಡುರಂಗ"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಅಪತ್ ಬಾಂಧವ ಪಾಂಡುರಂಗ",
+            "ಅನಾಥ ರಕ್ಷಕ ಪಾಂಡುರಂಗ",
+            "ಅಪತ್ ಬಾಂಧವ ಪಾಂಡುರಂಗ",
+            "ಅನಾಥ ರಕ್ಷಕ ಪಾಂಡುರಂಗ",
+            "ಜೈ ಜೈ ವಿಟ್ಟಲಾ"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಭಕ್ತ ಪೋಶಕ ಪಾಂಡುರಂಗ",
+            "ಮುಕ್ತಿ ಪ್ರದಾಯಕ ಪಾಂಡುರಂಗ",
+            "ಭಕ್ತ ಪೋಶಕ ಪಾಂಡುರಂಗ",
+            "ಮುಕ್ತಿ ಪ್ರದಾಯಕ ಪಾಂಡುರಂಗ",
+            "ಜೈ ಜೈ ವಿಟ್ಟಲಾ"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ತಂದೆ ತಾಯಿಯು ಪಾಂಡುರಂಗ",
+            "ಬಂಧುಬಳಗವು ಪಾಂಡುರಂಗ",
+            "ತಂದೆ ತಾಯಿಯು ಪಾಂಡುರಂಗ",
+            "ಬಂಧುಬಳಗವು ಪಾಂಡುರಂಗ",
+            "ಜೈ ಜೈ ವಿಟ್ಟಲಾ"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ವಿದ್ಯೆ ಹೇಳುವ ಪಾಂಡುರಂಗ",
+            "ಬುದ್ದಿ ಕಲಿಸುವ ಪಾಂಡುರಂಗ",
+            "ವಿದ್ಯೆ ಹೇಳುವ ಪಾಂಡುರಂಗ",
+            "ಬುದ್ದಿ ಕಲಿಸುವ ಪಾಂಡುರಂಗ",
+            "ಜೈ ಜೈ ವಿಟ್ಟಲಾ"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಮೂರುಲೋಕಕೇ ಪಾಂಡುರಂಗ",
+            "ಕಾರಣಕರ್ತಾ ಪಾಂಡುರಂಗ",
+            "ಮೂರುಲೋಕಕೇ ಪಾಂಡುರಂಗ",
+            "ಕಾರಣಕರ್ತಾ ಪಾಂಡುರಂಗ",
+            "ಜೈ ಜೈ ವಿಟ್ಟಲಾ"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಪಂಡರಾಪುರದ ಪಾಂಡುರಂಗ ",
+            "ಪಂಡರೀಶ ವಿಠಲ ಪಾಂಡುರಂ",
+            "ಪಂಡರಾಪುರದ ಪಾಂಡುರಂಗ ",
+            "ಪಂಡರೀಶ ವಿಠಲ ಪಾಂಡುರಂಗ",
+            "ಜೈ ಜೈ ವಿಟ್ಟಲಾ"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ",
+            "ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ"
+          ]
+        }
+      ]
+    },
+    "en":{
+      "title": "Jai Jai Vittala Panduranga",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "Jai Jai Vittala Panduranga",
+            "Jai Hari Vittala Panduranga",
+            "Jai Jai Vittala Panduranga",
+            "Jai Hari Vittala Panduranga"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Apata bandhava Panduranga",
+            "Anatha rakshaka Panduranga",
+            "Apata bandhava Panduranga",
+            "Anatha rakshaka Panduranga",
+            "Jai Jai Vittala"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Bhakta poshaka Panduranga",
+            "Mukti pradayaka Panduranga",
+            "Bhakta poshaka Panduranga",
+            "Mukti pradayaka Panduranga",
+            "Jai Jai Vittala"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Tande tayiyu Panduranga",
+            "Bandhubalagavu Panduranga",
+            "Tande tayiyu Panduranga",
+            "Bandhubalagavu Panduranga",
+            "Jai Jai Vittala"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Vidyeya heluva Panduranga",
+            "Buddhi kalisuva Panduranga",
+            "Vidyeya heluva Panduranga",
+            "Buddhi kalisuva Panduranga",
+            "Jai Jai Vittala"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Moorulokake Panduranga",
+            "Karanakarta Panduranga",
+            "Moorulokake Panduranga",
+            "Karanakarta Panduranga",
+            "Jai Jai Vittala"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Pandarapura du Panduranga",
+            "Pandarisha Vitthala Panduranga",
+            "Pandarapura du Panduranga",
+            "Pandarisha Vitthala Panduranga",
+            "Jai Jai Vittala"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Vittala Vittala Vittala Vittala",
+            "Vittala Vittala Vittala Vittala"
+          ]
+        }
+      ]
+    }
+  }
 }
