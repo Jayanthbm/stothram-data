@@ -16,7 +16,7 @@
         "ನಾಗಲೋಕದಲ್ಲಿ ನಾರಾಯಣ ಮಲಗ್ಯಾನೆ",
         "ನಾಗ ಕನ್ನಿಕೆಯರು ತೂಗಿರೆ",
         "ನಾಗವೇಣಿಯರು ನೇಣ ಪಿಡಿದುಕೊಂಡು",
-        "ಬೇಗನೆ ತೊಟ್ಟಿಲ ತೂಗಿರೆ || ೧ ||"
+        "ಬೇಗನೆ ತೊಟ್ಟಿಲ ತೂಗಿರೆ ||1||"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "ಇಂದ್ರಲೋಕದಲ್ಲುಪೇಂದ್ರ ಮಲಗ್ಯಾನೆ",
         "ಇಂದುಮುಖಿಯರೆಲ್ಲ ತೂಗಿರೆ",
         "ಇಂದ್ರ ಕನ್ನಿಕೆಯರು ಚಂದದಿ ಬಂದು",
-        "ಮುಕುಂದನ ತೊಟ್ಟಿಲ ತೂಗಿರೆ || ೨ ||"
+        "ಮುಕುಂದನ ತೊಟ್ಟಿಲ ತೂಗಿರೆ ||2||"
       ]
     },
     {
@@ -34,7 +34,7 @@
         "ಆಲದೆಲೆಯ ಮೇಲೆ ಶ್ರೀಲೋಲ ಮಲಗ್ಯಾನೆ",
         "ನೀಲಕುಂತಳೆಯರು ತೂಗಿರೆ",
         "ವ್ಯಾಳಶಯನ ಹರಿ ಮಲಗು ಮಲಗೆಂದು",
-        "ಬಾಲ ಕೃಷ್ಣಯ್ಯನ ತೂಗಿರೆ || ೩ ||"
+        "ಬಾಲ ಕೃಷ್ಣಯ್ಯನ ತೂಗಿರೆ ||3||"
       ]
     },
     {
@@ -43,7 +43,7 @@
         "ಸಾಸಿರ ನಾಮನೆ ಸರ್ವೋತ್ತಮನೆಂದು",
         "ಸೂಸುತ್ತ ತೊಟ್ಟಿಲ ತೂಗಿರೆ",
         "ವಲೇಸಾಗಿ ಮಡುವಿನೊಳ್ ಶೇಷನ ತುಳಿದಿಟ್ಟ",
-        "ದೋಷ ವಿದೂರನ ತೂಗಿರೆ || ೪ ||"
+        "ದೋಷ ವಿದೂರನ ತೂಗಿರೆ ||4||"
       ]
     },
     {
@@ -52,8 +52,128 @@
         "ಅರಳೆಲೆ ಮಾಗಾಯಿ ಕೊರಳ ಮುತ್ತಿನ ಹಾರ",
         "ತರಳನ ತೊಟ್ಟಿಲ ತೂಗಿರೆ",
         "ಸಿರಿದೇವಿ ರಮಣನೆ ಪುರಂದರ ವಿಠಲನೆ",
-        "ಕರುಣದಿ ಮಲಗೆಂದು ತೂಗಿರೆ || ೫ ||"
+        "ಕರುಣದಿ ಮಲಗೆಂದು ತೂಗಿರೆ ||5||"
       ]
     }
-  ]
+  ],
+  "translations": {
+    "kn": {
+      "title": "ತೂಗಿರೆ ರಂಗನ ತೂಗಿರೆ ಕೃಷ್ಣನ",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "ತೂಗಿರೆ ರಂಗನ ತೂಗಿರೆ ಕೃಷ್ಣನ",
+            "ತೂಗಿರೆ ಅಚ್ಯುತಾನಂತನ",
+            "ತೂಗಿರೆ ವರಗಿರಿಯಪ್ಪ ತಿಮ್ಮಪ್ಪನ",
+            "ತೂಗಿರೆ ಕಾವೇರಿ ರಂಗಯ್ಯನ"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ನಾಗಲೋಕದಲ್ಲಿ ನಾರಾಯಣ ಮಲಗ್ಯಾನೆ",
+            "ನಾಗ ಕನ್ನಿಕೆಯರು ತೂಗಿರೆ",
+            "ನಾಗವೇಣಿಯರು ನೇಣ ಪಿಡಿದುಕೊಂಡು",
+            "ಬೇಗನೆ ತೊಟ್ಟಿಲ ತೂಗಿರೆ ||1||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಇಂದ್ರಲೋಕದಲ್ಲುಪೇಂದ್ರ ಮಲಗ್ಯಾನೆ",
+            "ಇಂದುಮುಖಿಯರೆಲ್ಲ ತೂಗಿರೆ",
+            "ಇಂದ್ರ ಕನ್ನಿಕೆಯರು ಚಂದದಿ ಬಂದು",
+            "ಮುಕುಂದನ ತೊಟ್ಟಿಲ ತೂಗಿರೆ ||2||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಆಲದೆಲೆಯ ಮೇಲೆ ಶ್ರೀಲೋಲ ಮಲಗ್ಯಾನೆ",
+            "ನೀಲಕುಂತಳೆಯರು ತೂಗಿರೆ",
+            "ವ್ಯಾಳಶಯನ ಹರಿ ಮಲಗು ಮಲಗೆಂದು",
+            "ಬಾಲ ಕೃಷ್ಣಯ್ಯನ ತೂಗಿರೆ ||3||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಸಾಸಿರ ನಾಮನೆ ಸರ್ವೋತ್ತಮನೆಂದು",
+            "ಸೂಸುತ್ತ ತೊಟ್ಟಿಲ ತೂಗಿರೆ",
+            "ವಲೇಸಾಗಿ ಮಡುವಿನೊಳ್ ಶೇಷನ ತುಳಿದಿಟ್ಟ",
+            "ದೋಷ ವಿದೂರನ ತೂಗಿರೆ ||4||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಅರಳೆಲೆ ಮಾಗಾಯಿ ಕೊರಳ ಮುತ್ತಿನ ಹಾರ",
+            "ತರಳನ ತೊಟ್ಟಿಲ ತೂಗಿರೆ",
+            "ಸಿರಿದೇವಿ ರಮಣನೆ ಪುರಂದರ ವಿಠಲನೆ",
+            "ಕರುಣದಿ ಮಲಗೆಂದು ತೂಗಿರೆ ||5||"
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Toogire Rangana Toogire Krishnana",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "Toogire Rangana Toogire Krishnana",
+            "Toogire Achyutanantana",
+            "Toogire Varagiriappa Timmappana",
+            "Toogire Kaveri Rangayyana"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Naagalokadalli Narayana Malagyane",
+            "Naaga Kannikeyaru Toogire",
+            "Naagaveniyaru Nena Pididukondu",
+            "Begane Tottile Toogire ||1||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Indralokadallupendra Malagyane",
+            "Indumukhiyarella Toogire",
+            "Indra Kannikeyaru Chandadi Bandu",
+            "Mukundana Tottile Toogire ||2||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Aaladyeleya Mele Shreelola Malagyane",
+            "Neelakuntaleyaru Toogire",
+            "Vyaalashayana Hari Malagu Malagendu",
+            "Baala Krishnayyana Toogire ||3||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Saasira Naamane Sarvottamane Endu",
+            "Soosutta Tottile Toogire",
+            "Vale Saagi Maduvinol Sheshana Tuliditta",
+            "Dosha Vidoorana Toogire ||4||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Arale Le Magaayi Koral Muttina Haara",
+            "Taralana Tottile Toogire",
+            "Siridevi Ramanane Purandara Vittalane",
+            "Karunadi Malagendu Toogire ||5||"
+          ]
+        }
+      ]
+    }
+  }
 }

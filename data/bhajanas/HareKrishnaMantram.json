@@ -3,27 +3,63 @@
   "content": [
     {
       "type": "paragraph",
-      "lines": [
-        "ಹರೇ ಕೃಷ್ಣ ಹರೇ ಕೃಷ್ಣ"
-      ]
+      "lines": ["ಹರೇ ಕೃಷ್ಣ ಹರೇ ಕೃಷ್ಣ"]
     },
     {
       "type": "paragraph",
-      "lines": [
-        "ಕೃಷ್ಣ ಕೃಷ್ಣ ಹರೇ ಹರೇ |"
-      ]
+      "lines": ["ಕೃಷ್ಣ ಕೃಷ್ಣ ಹರೇ ಹರೇ |"]
     },
     {
       "type": "paragraph",
-      "lines": [
-        "ಹರೇ ರಾಮ ಹರೇ ರಾಮ"
-      ]
+      "lines": ["ಹರೇ ರಾಮ ಹರೇ ರಾಮ"]
     },
     {
       "type": "paragraph",
-      "lines": [
-        "ರಾಮ ರಾಮ ಹರೇ ಹರೇ ||"
+      "lines": ["ರಾಮ ರಾಮ ಹರೇ ಹರೇ ||"]
+    }
+  ],
+  "translations": {
+    "kn": {
+      "title": "ಹರೇ ಕೃಷ್ಣ ಮಂತ್ರಂ",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": ["ಹರೇ ಕೃಷ್ಣ ಹರೇ ಕೃಷ್ಣ"]
+        },
+        {
+          "type": "paragraph",
+          "lines": ["ಕೃಷ್ಣ ಕೃಷ್ಣ ಹರೇ ಹರೇ |"]
+        },
+        {
+          "type": "paragraph",
+          "lines": ["ಹರೇ ರಾಮ ಹರೇ ರಾಮ"]
+        },
+        {
+          "type": "paragraph",
+          "lines": ["ರಾಮ ರಾಮ ಹರೇ ಹರೇ ||"]
+        }
+      ]
+    },
+    "en": {
+      "title": "Hare Krishna Mantram",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": ["Hare Krishna Hare Krishna"]
+        },
+        {
+          "type": "paragraph",
+          "lines": ["Krishna Krishna Hare Hare |"]
+        },
+        {
+          "type": "paragraph",
+          "lines": ["Hare Rama Hare Rama"]
+        },
+        {
+          "type": "paragraph",
+          "lines": ["Rama Rama Hare Hare ||"]
+        }
       ]
     }
-  ]
+  }
 }

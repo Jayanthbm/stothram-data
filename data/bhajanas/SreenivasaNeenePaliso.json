@@ -21,7 +21,7 @@
         "ಎಷ್ಟುದಿವಸ ಕಷ್ಟಪಡುವುದೋ ಯಶೋದೆ ಕಂದ",
         "ದೃಷ್ಟಿಯಿಂದ ನೋಡಬಾರದೆ",
         "ಮುಟ್ಟಿ ನಿನ್ನ ಭಜಿಸಲಾರೆ ಕೆಟ್ಟ ನರಜನ್ಮದವ",
-        "ದುಷ್ಟ ಕಾರ್ಯವ ಮಾಡಿದಾಗ್ಯು ಇಷ್ಟನಾಗಿ ಕೈಯಪಿಡಿದು ||೨||"
+        "ದುಷ್ಟ ಕಾರ್ಯವ ಮಾಡಿದಾಗ್ಯು ಇಷ್ಟನಾಗಿ ಕೈಯಪಿಡಿದು ||1||"
       ]
     },
     {
@@ -30,7 +30,7 @@
         "ಎಂದಿಗೆ ನಿನ್ನ ಪಾದಾವ ಪೊಂದುವ ಸುಖ",
         "ಎಂದಿಗೆ ಲಭ್ಯವೊ ಮಾಧವ",
         "ಅಂಧಕಾರಣ್ಯದಲ್ಲಿ ನಿಂದು ತಳತಳಿಸುವಂತ",
-        "ಅಂದದಿಂ ಭವಾಬ್ಬಿಯೊಳು ನಿಂದು ನೊಂದೆನೊ ಮುಕುಂದ||೧||"
+        "ಅಂದದಿಂ ಭವಾಬ್ಬಿಯೊಳು ನಿಂದು ನೊಂದೆನೊ ಮುಕುಂದ||2||"
       ]
     },
     {
@@ -39,8 +39,102 @@
         "ಅನುದಿನ ಅನೇಕ ರೋಗಗಳ ಅನುಭವಿಸಿಬಂದೆ",
         "ಘನ ಮಹಿಮ ನೀನೆ ಕೇಳಯ್ಯ",
         "ತನುವಿನಲ್ಲಿ ಬಲವು ಇಲ್ಲ ನೆನೆದ ಮಾತ್ರಕ್ಕೆ ಸಲಹೋ ದೇವ",
-        "ಹನುಮದೀಶ ಪುರಂದರ ವಿಠಲಯ್ಯ ನೀನೇ ಒಲಿದು ||೩||"
+        "ಹನುಮದೀಶ ಪುರಂದರ ವಿಠಲಯ್ಯ ನೀನೇ ಒಲಿದು ||3||"
       ]
     }
-  ]
+  ],
+  "translations":{
+    "kn":{
+      "title": "ಶ್ರೀನಿವಾಸ ನೀನೇ ಪಾಲಿಸೋ",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಶ್ರೀನಿವಾಸ ನೀನೇ ಪಾಲಿಸೋ ಶ್ರಿತಜನ ಪಾಲ",
+            "ಗಾನಲೋಲ ಶ್ರೀ ಮುಕುಂದನೇ ||ಪ||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಧ್ಯಾನಮಾಳ್ಪ ಸುಜನಾರನ್ನು ಮಾನದಿಂ ಪಾಲಿಸಯ್ಯ",
+            "ವೇಣುಗೋಪಾಲ ವಿಠಲ ವೇದವೇದ್ಯ ನಿತ್ಯಾನಂದ ||ಅಪ||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಎಷ್ಟುದಿವಸ ಕಷ್ಟಪಡುವುದೋ ಯಶೋದೆ ಕಂದ",
+            "ದೃಷ್ಟಿಯಿಂದ ನೋಡಬಾರದೆ",
+            "ಮುಟ್ಟಿ ನಿನ್ನ ಭಜಿಸಲಾರೆ ಕೆಟ್ಟ ನರಜನ್ಮದವ",
+            "ದುಷ್ಟ ಕಾರ್ಯವ ಮಾಡಿದಾಗ್ಯು ಇಷ್ಟನಾಗಿ ಕೈಯಪಿಡಿದು ||1||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಎಂದಿಗೆ ನಿನ್ನ ಪಾದಾವ ಪೊಂದುವ ಸುಖ",
+            "ಎಂದಿಗೆ ಲಭ್ಯವೊ ಮಾಧವ",
+            "ಅಂಧಕಾರಣ್ಯದಲ್ಲಿ ನಿಂದು ತಳತಳಿಸುವಂತ",
+            "ಅಂದದಿಂ ಭವಾಬ್ಬಿಯೊಳು ನಿಂದು ನೊಂದೆನೊ ಮುಕುಂದ||2||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಅನುದಿನ ಅನೇಕ ರೋಗಗಳ ಅನುಭವಿಸಿಬಂದೆ",
+            "ಘನ ಮಹಿಮ ನೀನೆ ಕೇಳಯ್ಯ",
+            "ತನುವಿನಲ್ಲಿ ಬಲವು ಇಲ್ಲ ನೆನೆದ ಮಾತ್ರಕ್ಕೆ ಸಲಹೋ ದೇವ",
+            "ಹನುಮದೀಶ ಪುರಂದರ ವಿಠಲಯ್ಯ ನೀನೇ ಒಲಿದು ||3||"
+          ]
+        }
+      ]
+    },
+    "en":{
+      "title": "Srinivasa Neene Paaliso",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "Srinivasa Neene Paaliso Shritajana Paala",
+            "Gaanalola Shri Mukundane ||pa||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Dhyaanamaalpa Sujanarannu Maanadim Paalisayya",
+            "Venugopala Vitthala Vedavedya Nityaananda ||apa||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "EshTu divasa kashtapaDuvudo Yashode kanda",
+            "Drushtiyanu nodabaarade",
+            "Mutti ninna bhajisalaare kettu narajanmadava",
+            "Dushta kaaryav maadidaagyu Ishtanaagi kaiyapidiidu ||1||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Endige ninna paadaava ponduva sukha",
+            "Endige labhyavo Maadhava",
+            "Andhakaaranyadalli nindu tataTalisuvanta",
+            "Andadim bhavaabbayoulu nindu nondenou Mukunda ||2||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Anudina aneka rogagala anubhavisibande",
+            "Ghana mahima neene kelalya",
+            "Tanuvinalli balavu illa nenenda maatrakke salahodeva",
+            "Hanumadeesha purandara Vitthala neene olidu ||3||"
+          ]
+        }
+      ]
+    }
+  }
 }

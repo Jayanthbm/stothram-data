@@ -3,31 +3,107 @@
   "content": [
     {
       "type": "paragraph",
-      "lines": ["ಹರಿನಾರಾಯಣ ದುರಿತ ನಿವಾರಣ, ದುರಿತ ನಿವಾರಣ ಹರಿನಾರಾಯಣ ಎನು ಮನವೆ "]
+      "lines": ["ಹರಿನಾರಾಯಣ ದುರಿತ ನಿವಾರಣ, ದುರಿತ ನಿವಾರಣ ಹರಿನಾರಾಯಣ ಎನು ಮನವೆ"]
     },
     {
       "type": "paragraph",
-      "lines": ["ನಾರಾಯಣ ಎಂಬೋ ನಾಮದ ಬೀಜವ ನಾರದ ಬಿತ್ತಿದ ಧರೆಯೊಳಗೆ", "(ಹರಿನಾರಾಯಣ) "]
+      "lines": ["ನಾರಾಯಣ ಎಂಬೋ ನಾಮದ ಬೀಜವ ನಾರದ ಬಿತ್ತಿದ ಧರೆಯೊಳಗೆ", "(ಹರಿನಾರಾಯಣ)"]
     },
     {
       "type": "paragraph",
       "lines": [
-        "ತರಳ ದ್ರುವಾನಿಂದ ಅಂಕುರಿಸಿತು ಅದು ವರ ಪ್ರಹ್ಲಾದರಿಂದ ಮೊರೆಯಾಯ್ತು ಧರಣಿಜ ಋಕುಮಾಂಗನನಿಂದ ಚಿಗುರಿತು ಕುರುಪಿತ ಮಹಾನಿಂದ ವೃಕ್ಷವಾಯಿತು "
+        "ತರಳ ದ್ರುವಾನಿಂದ ಅಂಕುರಿಸಿತು ಅದು ವರ ಪ್ರಹ್ಲಾದರಿಂದ ಮೊರೆಯಾಯ್ತು ಧರಣಿಜ ಋಕುಮಾಂಗನನಿಂದ ಚಿಗುರಿತು ಕುರುಪಿತ ಮಹಾನಿಂದ ವೃಕ್ಷವಾಯಿತು"
       ]
     },
     {
       "type": "paragraph",
       "lines": [
         "ವಿಜಯನ ಸತಿಯಿಂದ ಫಲವಾಯ್ತು ಅದು ಗಜೆಂದ್ರನಿಂದ ಧೋರ್ ಹಣ್ಣಾಯ್ತು ವರಶುಕ ಮುನಿಯಿಂದ ಫಲಪಕ್ವವಾಯಿತ ಅಜಮಿಳ ತಾನುಂಡ ರಸಸವಿದ",
-        "(ಹರಿನಾರಾಯಣ) "
+        "(ಹರಿನಾರಾಯಣ)"
       ]
     },
     {
       "type": "paragraph",
       "lines": [
-        "ಕಾಮಿತ ಫಲವೆಂಬೋ ನಾಮ ವೊಂದಿರಲಾಗಿ ನೇಮ ಹೋಮ ಜಪ ತಪಗಳೇಕೆ  ಸ್ವಾಮಿ ಶ್ರೀ ಪುರಂದರ ವಿಠ್ಠಲನ ನಾಮವ ನೇಮದಿಂದಲಿ ಭಜಿಸೇಲೋ ಮನವೇ ",
-        "(ಹರಿನಾರಾಯಣ) "
+        "ಕಾಮಿತ ಫಲವೆಂಬೋ ನಾಮ ವೊಂದಿರಲಾಗಿ ನೇಮ ಹೋಮ ಜಪ ತಪಗಳೇಕೆ ಸ್ವಾಮಿ ಶ್ರೀ ಪುರಂದರ ವಿಠ್ಠಲನ ನಾಮವ ನೇಮದಿಂದಲಿ ಭಜಿಸೇಲೋ ಮನವೇ",
+        "(ಹರಿನಾರಾಯಣ)"
       ]
     }
-  ]
+  ],
+  "translations": {
+    "kn": {
+      "title": "ಹರಿನಾರಾಯಣ ದುರಿತ ನಿವಾರಣ",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": ["ಹರಿನಾರಾಯಣ ದುರಿತ ನಿವಾರಣ, ದುರಿತ ನಿವಾರಣ ಹರಿನಾರಾಯಣ ಎನು ಮನವೆ"]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ನಾರಾಯಣ ಎಂಬೋ ನಾಮದ ಬೀಜವ ನಾರದ ಬಿತ್ತಿದ ಧರೆಯೊಳಗೆ",
+            "(ಹರಿನಾರಾಯಣ)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ತರಳ ದ್ರುವಾನಿಂದ ಅಂಕುರಿಸಿತು ಅದು ವರ ಪ್ರಹ್ಲಾದರಿಂದ ಮೊರೆಯಾಯ್ತು ಧರಣಿಜ ಋಕುಮಾಂಗನನಿಂದ ಚಿಗುರಿತು ಕುರುಪಿತ ಮಹಾನಿಂದ ವೃಕ್ಷವಾಯಿತು"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ವಿಜಯನ ಸತಿಯಿಂದ ಫಲವಾಯ್ತು ಅದು ಗಜೆಂದ್ರನಿಂದ ಧೋರ್ ಹಣ್ಣಾಯ್ತು ವರಶುಕ ಮುನಿಯಿಂದ ಫಲಪಕ್ವವಾಯಿತ ಅಜಮಿಳ ತಾನುಂಡ ರಸಸವಿದ",
+            "(ಹರಿನಾರಾಯಣ)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಕಾಮಿತ ಫಲವೆಂಬೋ ನಾಮ ವೊಂದಿರಲಾಗಿ ನೇಮ ಹೋಮ ಜಪ ತಪಗಳೇಕೆ ಸ್ವಾಮಿ ಶ್ರೀ ಪುರಂದರ ವಿಠ್ಠಲನ ನಾಮವ ನೇಮದಿಂದಲಿ ಭಜಿಸೇಲೋ ಮನವೇ",
+            "(ಹರಿನಾರಾಯಣ)"
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Harinarayana Durita Nivaarana",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "Harinarayana Durita Nivaarana, Durita Nivaarana Harinarayana Enu Manave"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Narayana Embaama Naamada Beejava Narada Bittida Dhareyolage",
+            "(Harinarayana)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Tarala druvaaniNda ankurisitu adu vara prahlaadarinda moreyaayitu dharaNij Rukumaangananinda chiguritu kurupita mahaaninda vrikshavaayitu"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Vijayana sathiyinda phalavaayitu adu gajendraNda dhor hannayitu varashuka muniyinda phalapakvavaayitu ajamil taanuMDa rasavid",
+            "(Harinarayana)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Kaamita phalaveMbo Naama vondiralaagi nema homa japa tapagaleke swami Shri Purandara Vitthalana Naamava nemadalli bhajiselo manave",
+            "(Harinarayana)"
+          ]
+        }
+      ]
+    }
+  }
 }

@@ -23,20 +23,106 @@
     {
       "type": "paragraph",
       "lines": [
-        "ಹಲ್ಲುಮುಡಿಯಾ ಕಚ್ಚಿದರೇನು  |",
+        "ಹಲ್ಲುಮುಡಿಯಾ ಕಚ್ಚಿದರೇನು |",
         "ಅಂಜುವನೇನೋ ನಿನಗೆ ನಾನು |",
-        "ಪುಲ್ಲನಾಭವಲ್ಲಿ  ಮನಸ್ಸು |",
-        "ನಿಲ್ಲಿಸೋ ತನಕ  ಸುಮ್ಮನೆ ನಾನು ||2||"
+        "ಪುಲ್ಲನಾಭವಲ್ಲಿ ಮನಸ್ಸು |",
+        "ನಿಲ್ಲಿಸೋ ತನಕ ಸುಮ್ಮನೆ ನಾನು ||2||"
       ]
     },
     {
       "type": "paragraph",
       "lines": [
-        "ಡೊಂಕುಮೋರೆ  ಬಾಲವ ತಿದ್ದಿ  |",
+        "ಡೊಂಕುಮೋರೆ ಬಾಲವ ತಿದ್ದಿ |",
         "ಹೂಂಕರಿಸಿದರೆ ಅಂಜುವನಲ್ಲ |",
         "ಕಿಂಕರ ನಿನಗೆ ಕಿಂಕರ ನಾನು |",
         "ಪುರಂದರ ವಿಠಲನ ತೋರುವತನಕ ||3||"
       ]
     }
-  ]
+  ],
+  "translations": {
+    "kn": {
+      "title": "ಹನುಮ ಬಿಡುವೇನೇನಯ್ಯಾ",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಬಿಡುವೇನೇನಯ್ಯಾ ಹನುಮ ಬಿಡುವೇನೇನಯ್ಯಾ |",
+            "ಬಿಡುವೇನೇನೋ ಹನುಮ ನಿನ್ನ |",
+            "ಅಡಿಗಳಿಗೆ ಶಿರವ ಬಾಗಿ |",
+            "ಜ್ಞಾನ ಭಕ್ತಿ ವೈರಾಗ್ಯವನು |",
+            "ಕೊಡುವ ತನಕ ಸುಮ್ಮನೆ ನಾನು ||ಪ||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಹಸ್ತವನು ಎತ್ತಿದರೇನು |",
+            "ಹಾರಾಕಾಲ ಹಾಕಲೇನು |",
+            "ಭೃತ್ಯನು ನಿನ್ನವನು ನಾನು |",
+            "ಅತ್ತಿ ವರದನ ತೋರುವ ತನಕ ||1|| "
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಹಲ್ಲುಮುಡಿಯಾ ಕಚ್ಚಿದರೇನು  |",
+            "ಅಂಜುವನೇನೋ ನಿನಗೆ ನಾನು |",
+            "ಪುಲ್ಲನಾಭವಲ್ಲಿ ಮನಸ್ಸು |",
+            "ನಿಲ್ಲಿಸೋ ತನಕ ಸುಮ್ಮನೆ ನಾನು ||2||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "ಡೊಂಕುಮೋರೆ ಬಾಲವ ತಿದ್ದಿ  |",
+            "ಹೂಂಕರಿಸಿದರೆ ಅಂಜುವನಲ್ಲ |",
+            "ಕಿಂಕರ ನಿನಗೆ ಕಿಂಕರ ನಾನು |",
+            "ಪುರಂದರ ವಿಠಲನ ತೋರುವತನಕ ||3||"
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "Hanuma Biduvenenayya",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": [
+            "Biduvenenayya Hanuma Biduvenenayya | ",
+            "Biduveneno Hanuma Ninna |",
+            "Adigalige Shirava Baagi |",
+            "Jnana Bhakti Vairagyavanu |",
+            "Koduva Tanaka Summane Naanu ||P||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Hastavanu Ettidareenu |",
+            "Haaraakaala Haakalenu |",
+            "Bhrutyanu Ninnavanu Naanu |",
+            "Atti Varadana Toruva Tanaka ||1|| "
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Hallumudiya Kachidareenu  |",
+            "Anjuveneno Ninage Naanu |",
+            "Pullanaabhavalli Manassu |",
+            "Nilliso Tanaka Summane Naanu ||2||"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Donkumoore Baalava Tiddi  |",
+            "Hoonkarisidare Anjuvenalla |",
+            "Kinkara Ninage Kinkara Naanu |",
+            "Purandara Vittalana Toruva Tanaka ||3||"
+          ]
+        }
+      ]
+    }
+  }
 }
