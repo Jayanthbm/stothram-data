@@ -121,6 +121,7 @@
       "content": [
         {
           "type": "paragraph",
+          "fontFamily": "NotoSans",
           "lines": [
             "Toogire Rangana Toogire Krishnana",
             "Toogire Achyutanantana",
@@ -130,6 +131,7 @@
         },
         {
           "type": "paragraph",
+          "fontFamily": "NotoSans",
           "lines": [
             "Naagalokadalli Narayana Malagyane",
             "Naaga Kannikeyaru Toogire",
@@ -139,6 +141,7 @@
         },
         {
           "type": "paragraph",
+          "fontFamily": "NotoSans",
           "lines": [
             "Indralokadallupendra Malagyane",
             "Indumukhiyarella Toogire",
@@ -148,6 +151,7 @@
         },
         {
           "type": "paragraph",
+          "fontFamily": "NotoSans",
           "lines": [
             "Aaladyeleya Mele Shreelola Malagyane",
             "Neelakuntaleyaru Toogire",
@@ -157,6 +161,7 @@
         },
         {
           "type": "paragraph",
+          "fontFamily": "NotoSans",
           "lines": [
             "Saasira Naamane Sarvottamane Endu",
             "Soosutta Tottile Toogire",
@@ -166,6 +171,7 @@
         },
         {
           "type": "paragraph",
+          "fontFamily": "NotoSans",
           "lines": [
             "Arale Le Magaayi Koral Muttina Haara",
             "Taralana Tottile Toogire",

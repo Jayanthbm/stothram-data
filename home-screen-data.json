@@ -25,10 +25,10 @@
       "lightBackground": "#1abc9c"
     }
   ],
-  "UPI_ID":"EZE0223420@CUB",
-  "upi_data":{
-     "upi_amounts":[1,5,10,50],
-     "payee_name":"Stothram",
-     "transaction_note":"Contribute to Stothram"
-    }
+  "UPI_ID": "EZE0223420@CUB",
+  "upi_data": {
+    "upi_amounts": [1, 5, 10, 50],
+    "payee_name": "Stothram",
+    "transaction_note": "Contribute to Stothram"
+  }
 }
