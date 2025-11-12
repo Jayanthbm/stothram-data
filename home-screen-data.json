@@ -14,7 +14,7 @@
       "title": "Bhajanas",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/bhajanas-data.json",
       "icon": "profile",
-       "icon_new":"book-music-outline"
+       "icon_new":"book-music-outline",
       "darkBackground": "#878683",
       "lightBackground": "#3498db"
     },
@@ -23,7 +23,7 @@
       "title": "Shattumorai",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/shattumorai-data.json",
       "icon": "database",
-       "icon_new":"stack-exchange"
+       "icon_new":"stack-exchange",
       "darkBackground": "#878683",
       "lightBackground": "#1abc9c"
     }
@@ -32,6 +32,6 @@
   "upi_data": {
     "upi_amounts": [1, 5, 10, 50],
     "payee_name": "Stothram",
-    "transaction_note": "Contribute to Stothram"
+    "transaction_note": "Contribute to Stothram",
   }
 }
