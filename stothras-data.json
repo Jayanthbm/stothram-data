@@ -5,6 +5,18 @@
       "title": "VishnuSahasranamam",
       "displayTitle": "ವಿಷ್ಣು ಸಹಸ್ರ ನಾಮ",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/VishnuSahasranamam.json"
+    },
+    {
+      "id": 2,
+      "title": "Jitante",
+      "displayTitle": "ಜಿತಂತೇ ಸ್ತೋತ್ರಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Jitante.json"
+    },
+    {
+      "id": 3,
+      "title": "ChaturShloki",
+      "displayTitle": "ಕಾಂತಸ್ತೆ(ಚತುಶ್ಲೋಕೀ)",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/ChaturShloki.json"
     }
   ]
 }
