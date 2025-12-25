@@ -14,7 +14,7 @@
     },
     {
       "id": 3,
-      "title": "Dheera Maruthi Gambeera Maruthi",
+      "title": "Dheera Maruthi",
       "displayTitle": "ಧೀರ ಮಾರುತಿ",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/DheeraMaruthi.json"
     },
@@ -26,7 +26,7 @@
     },
     {
       "id": 5,
-      "title": "Thugire Rangana Thugire Krishnana",
+      "title": "Thugire Rangana",
       "displayTitle": "ತೂಗಿರೆ ರಂಗನ",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/ThugireRangana.json"
     },
@@ -69,7 +69,7 @@
     {
       "id": 12,
       "title": "ShuddaBrahma",
-      "displayTitle": "ಶುದ್ಧಬ್ರಹ್ಮ",
+      "displayTitle": "ಶುದ್ಧ ಬ್ರಹ್ಮ",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/ShuddaBrahma.json"
     },
     {
@@ -99,7 +99,7 @@
     {
       "id": 17,
       "title": "RadheShyam",
-      "displayTitle": "ರಾಧೇಶ್ಯಾಮ್‌",
+      "displayTitle": "ರಾಧೇಶ್ಯಾಮ್",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/RadheShyam.json"
     },
     {
@@ -109,19 +109,19 @@
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/BhajaYatirajam.json"
     },
     {
-      "id": 18,
-      "title": "Nee yenna kayabekayya",
-      "displayTitle": "ನೀ ಎನ್ನ ಕಾಯಬೇಕಯ",
+      "id": 19,
+      "title": "Nee Yenna Kayabekayya",
+      "displayTitle": "ನೀ ಎನ್ನ ಕಾಯಬೇಕಯ್ಯ",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/NeeYennaKayabekayya.json"
     },
     {
-      "id": 19,
+      "id": 20,
       "title": "Sri Rama Krishna Bhajane",
       "displayTitle": "ಶ್ರೀರಾಮ ಕೃಷ್ಣ ಭಜನೆ",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/RamaKrishnaBhajane.json"
     },
     {
-      "id": 20,
+      "id": 21,
       "title": "Hare Krishna Mantram",
       "displayTitle": "ಹರೇ ಕೃಷ್ಣ ಮಂತ್ರಂ",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/bhajanas/HareKrishnaMantram.json"
