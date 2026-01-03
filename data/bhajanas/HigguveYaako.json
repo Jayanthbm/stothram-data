@@ -9,7 +9,7 @@
       "type": "paragraph",
       "lines": [
         "ಹಿಗ್ಗುವ ತಗ್ಗುವ ಮುಗ್ಗುವ ಮುಳುಗುವ ಅಗ್ನಿಯೊಳಗೆ ಧಗ್ಧವಾಗುವ ದೇಹಕ್ಕೆ",
-        "(ಹಿಗ್ಗುವೆ) "
+        "(ಹಿಗ್ಗುವೆ)"
       ]
     },
     {
@@ -47,5 +47,67 @@
         "(ಹಿಗ್ಗುವೆ)"
       ]
     }
-  ]
+  ],
+  "translations": {
+    "kn": {
+      "title": "ಹಿಗ್ಗುವೆ ಯಾಕೋ",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": ["ಹಿಗ್ಗುವೆ ಯಾಕೋ ಈ ದೇಹಕ್ಕೆ ಹಿಗ್ಗುವೇ ಯಾಕೋ"]
+        }
+      ]
+    },
+    "en": {
+      "title": "Higguve Yaako",
+      "content": [
+        {
+          "type": "paragraph",
+          "lines": ["Higguve Yaako Ee Dehakke Higguve Yaako"]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Higguva Tagguva Mugguva Muluguva Agniyolage Dhagdhavaaguva Dehakke",
+            "(Higguve)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Satipurusharu Koodi Rati Kreedegalanaadi Mathanaada Indriyadha Pruthuveena Dehakke",
+            "(Higguve)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Aagaada Bhogaada Aagumaadutalirpa Roga Bandare Taan Bidu Hoguvadehake",
+            "(Higguve)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Parara Seveyamaadi Naraka Bhaajananaagi Urulu Doorulutaadin Horaluvadehake",
+            "(Higguve)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Soruvado Mbattu Dvaaradindali Mala Neerilladiddare Naaruva Dehakke",
+            "(Higguve)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "lines": [
+            "Purandara Vittalana Charanakamaladalli Eragaade Iruvanta Garuvina Dehakke",
+            "(Higguve)"
+          ]
+        }
+      ]
+    }
+  }
 }
