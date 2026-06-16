@@ -1,5 +1,9 @@
 {
   "title": "ವೇದಾದಿ ಶಾತ್ತುಮೊರೈ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "brhknde"
+  },
   "content": [
     {
       "type": "paragraph",

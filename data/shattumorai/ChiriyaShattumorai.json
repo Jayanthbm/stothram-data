@@ -1,5 +1,9 @@
 {
   "title": "ಶಿರಿಯ ಶಾತ್ತುಮೊರೈ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NotoSerif"
+  },
   "content": [
     {
       "type": "subheading",
