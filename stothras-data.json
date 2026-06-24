@@ -2,111 +2,111 @@
   "data": [
     {
       "id": 1,
-      "title": "VishnuSahasranamam",
-      "displayTitle": "ವಿಷ್ಣು ಸಹಸ್ರ ನಾಮ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/VishnuSahasranamam.json"
-    },
-    {
-      "id": 2,
-      "title": "Jitante",
-      "displayTitle": "ಜಿತಂತೇ ಸ್ತೋತ್ರಂ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Jitante.json"
-    },
-    {
-      "id": 3,
-      "title": "ChaturShloki",
-      "displayTitle": "ಕಾಂತಸ್ತೆ(ಚತುಶ್ಲೋಕೀ)",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/ChaturShloki.json"
-    },
-    {
-      "id": 4,
-      "title": "AdithyaHrudayam",
-      "displayTitle": "ಆದಿತ್ಯ ಹೃದಯಂ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/AdithyaHrudayam.json"
-    },
-    {
-      "id": 5,
-      "title": "Bhustuthi",
-      "displayTitle": "ಭೂಸ್ತುತಿ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Bhustuthi.json"
-    },
-    {
-      "id": 6,
-      "title": "DeshikaMangalam",
-      "displayTitle": "ದೇಶಿಕಾ ಮಂಗಳಂ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/DeshikaMangalam.json"
-    },
-    {
-      "id": 7,
-      "title": "Dashavatara",
-      "displayTitle": "ದಶಾವತಾರ ಸ್ತೋತ್ರ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Dashavatara.json"
-    },
-    {
-      "id": 8,
-      "title": "GodaSthuti",
-      "displayTitle": "ಗೋದೆ ಸ್ತುತಿ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/GodaSthuti.json"
-    },
-    {
-      "id": 9,
-      "title": "GopalaVimshathi",
-      "displayTitle": "ಗೋಪಾಲ ವಿಮ್ಶತಿ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/GopalaVimshathi.json"
-    },
-    {
-      "id": 10,
       "title": "Hayagriva",
       "displayTitle": "ಹಯಗ್ರೀವ ಸ್ತುತಿ",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Hayagriva.json"
     },
     {
-      "id": 11,
-      "title": "GarudaDandakam",
-      "displayTitle": "ಗರುಡ ದಂಡಕಂ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/GarudaDandakam.json"
+      "id": 2,
+      "title": "Dashavatara",
+      "displayTitle": "ದಶಾವತಾರ ಸ್ತೋತ್ರ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Dashavatara.json"
     },
     {
-      "id": 12,
-      "title": "Kamaasikashtakam",
-      "displayTitle": "ಕಮಾಸಿಕಾಷ್ಟಕಂ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Kamaasikashtakam.json"
+      "id": 3,
+      "title": "GodaSthuti",
+      "displayTitle": "ಗೋದಾ ಸ್ತುತಿ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/GodaSthuti.json"
     },
     {
-      "id": 13,
-      "title": "MukundaMala",
-      "displayTitle": "ಮುಖುಂದ ಮಾಲಾ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/MukundaMala.json"
+      "id": 4,
+      "title": "GopalaVimshathi",
+      "displayTitle": "ಗೋಪಾಲ ವಿಮ್ಶತಿ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/GopalaVimshathi.json"
     },
     {
-      "id": 14,
-      "title": "Nyasadashaka",
-      "displayTitle": "ನ್ಯಾಸ ದಶಕಂ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Nyasadashaka.json"
+      "id": 5,
+      "title": "Jitante",
+      "displayTitle": "ಜಿತಂತೇ ಸ್ತೋತ್ರಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Jitante.json"
     },
     {
-      "id": 15,
-      "title": "RaghuveeraGadya",
-      "displayTitle": "ರಘುವೀರ ಗದ್ಯಂ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/RaghuveeraGadya.json"
+      "id": 6,
+      "title": "ChaturShloki",
+      "displayTitle": "ಕಾಂತಸ್ತೆ(ಚತುಶ್ಲೋಕೀ)",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/ChaturShloki.json"
     },
     {
-      "id": 16,
-      "title": "Ramaraksha",
-      "displayTitle": "ರಾಮ ರಕ್ಷಾ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Ramaraksha.json"
-    },
-    {
-      "id": 17,
+      "id": 7,
       "title": "SriStuti",
       "displayTitle": "ಶ್ರೀ ಸ್ತುತಿ",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/SriStuti.json"
     },
     {
-      "id": 18,
+      "id": 8,
+      "title": "Bhustuthi",
+      "displayTitle": "ಭೂಸ್ತುತಿ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Bhustuthi.json"
+    },
+    {
+      "id": 9,
+      "title": "DeshikaMangalam",
+      "displayTitle": "ದೇಶಿಕ ಮಂಗಳಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/DeshikaMangalam.json"
+    },
+    {
+      "id": 10,
+      "title": "GarudaDandakam",
+      "displayTitle": "ಗರುಡ ದಂಡಕಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/GarudaDandakam.json"
+    },
+    {
+      "id": 11,
+      "title": "Kamaasikashtakam",
+      "displayTitle": "ಕಾಮಾಸಿಕಾಷ್ಟಕಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Kamaasikashtakam.json"
+    },
+    {
+      "id": 12,
+      "title": "MukundaMala",
+      "displayTitle": "ಮುಕುಂದ ಮಾಲಾ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/MukundaMala.json"
+    },
+    {
+      "id": 13,
+      "title": "Nyasadashaka",
+      "displayTitle": "ನ್ಯಾಸ ದಶಕಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Nyasadashaka.json"
+    },
+    {
+      "id": 14,
+      "title": "RaghuveeraGadya",
+      "displayTitle": "ರಘುವೀರ ಗದ್ಯಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/RaghuveeraGadya.json"
+    },
+    {
+      "id": 15,
+      "title": "Mangalam Kosalendraya",
+      "displayTitle": "ಮಂಗಲಂ ಕೋಸಲೇಂದ್ರಾಯ(ರಾಮ ಮಂಗಲಂ)",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/MangalamKosalendraya.json"
+    },
+    {
+      "id": 16,
       "title": "Sudarshanastaka",
       "displayTitle": "ಸುದರ್ಶನಾಷ್ಟಕಂ",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Sudarshanastaka.json"
+    },
+    {
+      "id": 17,
+      "title": "AdithyaHrudayam",
+      "displayTitle": "ಆದಿತ್ಯ ಹೃದಯಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/AdithyaHrudayam.json"
+    },
+    {
+      "id": 18,
+      "title": "Ramaraksha",
+      "displayTitle": "ರಾಮ ರಕ್ಷಾ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/stothras/Ramaraksha.json"
     }
   ]
 }
