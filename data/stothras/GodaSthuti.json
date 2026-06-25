@@ -1,5 +1,9 @@
 {
   "title": "ಗೋದಾ ಸ್ತುತಿಃ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

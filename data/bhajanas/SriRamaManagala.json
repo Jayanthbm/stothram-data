@@ -1,5 +1,9 @@
 {
   "title": "ಶ್ರೀ ರಾಮ ಮಂಗಳ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

@@ -1,5 +1,9 @@
 {
   "title": "ಕಾಂತಸ್ತೆ(ಚತುಶ್ಲೋಕೀ)",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

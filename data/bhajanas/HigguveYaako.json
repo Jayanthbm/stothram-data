@@ -1,5 +1,9 @@
 {
   "title": "ಹಿಗ್ಗುವೆ ಯಾಕೋ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

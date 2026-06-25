@@ -1,5 +1,9 @@
 {
   "title": "ಶ್ರೀ ರಾಮಚಂದಿರನೆ ಶ್ರೀ ಲೋಲ ಸುಂದರನೆ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

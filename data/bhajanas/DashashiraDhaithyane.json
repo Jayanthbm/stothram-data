@@ -1,5 +1,9 @@
 {
   "title": "ದಶಶಿರ ದೈತ್ಯನು ಲೋಕವಬಾಧಿಸೆ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

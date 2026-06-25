@@ -1,5 +1,9 @@
 {
   "title": "ಜೈ ಜೈ ವಿಟ್ಟಲಾ ಪಾಂಡುರಂಗ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

@@ -1,5 +1,9 @@
 {
   "title": "ಹನುಮನೆ ತಂದೆಯೂ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

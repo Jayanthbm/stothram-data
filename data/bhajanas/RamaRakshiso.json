@@ -1,5 +1,9 @@
 {
   "title": "ರಾಮ ರಕ್ಷಿಸೋ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

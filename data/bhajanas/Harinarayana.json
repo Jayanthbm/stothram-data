@@ -1,5 +1,9 @@
 {
   "title": "ಹರಿನಾರಾಯಣ ದುರಿತ ನಿವಾರಣ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

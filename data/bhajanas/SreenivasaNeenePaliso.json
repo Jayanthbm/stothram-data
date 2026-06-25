@@ -1,5 +1,9 @@
 {
   "title": "ಶ್ರೀನಿವಾಸ ನೀನೇ ಪಾಲಿಸೋ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

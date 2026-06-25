@@ -1,5 +1,9 @@
 {
   "title": "ರಾಧೇಶ್ಯಾಮ್‌ ರಾಧೇಶ್ಯಾಮ್",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

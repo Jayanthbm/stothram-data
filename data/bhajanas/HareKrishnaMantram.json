@@ -1,5 +1,9 @@
 {
   "title": "ಹರೇ ಕೃಷ್ಣ ಮಂತ್ರಂ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

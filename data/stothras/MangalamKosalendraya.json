@@ -1,5 +1,9 @@
 {
   "title": "ಮಂಗಲಂ ಕೋಸಲೇಂದ್ರಾಯ(ರಾಮ ಮಂಗಲಂ)",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

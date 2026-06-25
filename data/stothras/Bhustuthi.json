@@ -1,5 +1,10 @@
 {
   "title": "ಶ್ರೀ ಭೂಸ್ತುತಿಃ",
+  
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

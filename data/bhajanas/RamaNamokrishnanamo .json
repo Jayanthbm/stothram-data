@@ -1,5 +1,9 @@
 {
   "title": "ಶ್ರೀರಾಮ ನಮೋ ಕೃಷ್ಣ ನಮೋ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

@@ -1,5 +1,9 @@
 {
   "title": "ಆದಿತ್ಯ ಹೃದಯಮ್",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

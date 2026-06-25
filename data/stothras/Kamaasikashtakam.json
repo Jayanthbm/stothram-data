@@ -1,5 +1,9 @@
 {
   "title": "ಕಾಮಾಸಿಕಾಷ್ಟಕಂ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

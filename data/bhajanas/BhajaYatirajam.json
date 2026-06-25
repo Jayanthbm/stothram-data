@@ -1,5 +1,9 @@
 {
   "title": "ಭಜ ಯತಿರಾಜಂ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

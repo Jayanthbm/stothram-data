@@ -1,5 +1,9 @@
 {
   "title": "ಹನುಮ ಬಿಡುವೇನೇನಯ್ಯಾ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

@@ -1,5 +1,9 @@
 {
   "title": "ಧೀರ ಮಾರುತಿ ಗಂಭೀರ ಮಾರುತಿ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

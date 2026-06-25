@@ -1,5 +1,9 @@
 {
   "title": "ನ್ಯಾಸ ದಶಕಂ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

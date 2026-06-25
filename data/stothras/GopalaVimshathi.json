@@ -1,5 +1,9 @@
 {
   "title": "ಗೋಪಾಲ ವಿಂಶತಿ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

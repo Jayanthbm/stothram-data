@@ -1,5 +1,9 @@
 {
   "title": "ನೀ ಎನ್ನ ಕಾಯಬೇಕಯ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

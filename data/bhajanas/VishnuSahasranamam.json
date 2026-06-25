@@ -1,5 +1,9 @@
 {
   "title": "ಶ್ರೀ ವಿಷ್ಣು ಸಹಸ್ರ ನಾಮ ಸ್ತೋತ್ರಮ್",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

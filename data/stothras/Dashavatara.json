@@ -1,5 +1,9 @@
 {
   "title": "ದಶಾವತಾರ ಸ್ತೋತ್ರಂ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

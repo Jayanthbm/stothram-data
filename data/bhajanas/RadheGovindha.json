@@ -1,5 +1,9 @@
 {
   "title": "ರಾಧೆ ಗೋವಿಂದಾ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

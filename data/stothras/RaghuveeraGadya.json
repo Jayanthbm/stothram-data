@@ -1,5 +1,9 @@
 {
   "title": "ಶ್ರೀ ರಘುವೀರ ಗದ್ಯಂ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

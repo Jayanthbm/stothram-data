@@ -1,5 +1,9 @@
 {
   "title": "ಹನುಮಾನ್ ಚಾಲಿಸಾ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "subheading",
