@@ -1,5 +1,9 @@
 {
   "title": "ತಿರುಪ್ಪಲ್ಲಾಂಡು",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

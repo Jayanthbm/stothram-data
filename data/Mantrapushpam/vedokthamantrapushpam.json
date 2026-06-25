@@ -1,10 +1,14 @@
 {
   "title": "ವೇದಾದಿ ಶಾತ್ರುಮೋರೆ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "subheading",
       "title": "ಋಗ್ವೇದಂ"
-    }, 
+    },
     {
       "type": "paragraph",
       "lines": [

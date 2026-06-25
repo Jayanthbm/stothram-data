@@ -1,5 +1,9 @@
 {
   "title": "ಕಣ್ಣಿನುಣ್ ಶಿರುತ್ತಾಮ್ಬು",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

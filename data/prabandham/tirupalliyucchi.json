@@ -1,5 +1,9 @@
 {
   "title": "ತಿರುಪ್ಪಳ್ಳಿಯೆಳುಚ್ಚಿ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

@@ -1,5 +1,9 @@
 {
   "title": "ಅಮಲನಾದಿಪಿರಾನ್",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",

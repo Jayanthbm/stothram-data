@@ -26,11 +26,43 @@
       "icon_new": "stack-exchange",
       "darkBackground": "#878683",
       "lightBackground": "#1abc9c"
+    },
+    {
+      "id": 4,
+      "title": "MantraPuspam",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/mantrapushpam-data.json",
+      "icon": "database",
+      "icon_new": "stack-exchange",
+      "darkBackground": "#878683",
+      "lightBackground": "#1abc9c"
+    },
+    {
+      "id": 5,
+      "title": "Ashirvadasambhavana",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/ashirvadasambhavana-data.json",
+      "icon": "database",
+      "icon_new": "stack-exchange",
+      "darkBackground": "#878683",
+      "lightBackground": "#1abc9c"
+    },
+    {
+      "id": 6,
+      "title": "Prabandham",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/prabandham-data.json",
+      "icon": "database",
+      "icon_new": "stack-exchange",
+      "darkBackground": "#878683",
+      "lightBackground": "#1abc9c"
     }
   ],
   "UPI_ID": "EZE0223420@CUB",
   "upi_data": {
-    "upi_amounts": [1, 5, 10, 50],
+    "upi_amounts": [
+      1,
+      5,
+      10,
+      50
+    ],
     "payee_name": "Stothram",
     "transaction_note": "Contribute to Stothram"
   }

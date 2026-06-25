@@ -1,5 +1,9 @@
 {
   "title": "ಸ್ವಸ್ತಿವಾಚನ(ಆಶೀರ್ವಾದ ವಚನ ಗದ್ಯಮ್)",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "subheading",

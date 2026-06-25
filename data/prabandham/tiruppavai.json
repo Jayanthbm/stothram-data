@@ -1,5 +1,9 @@
 {
   "title": "ತಿರುಪ್ಪಾವೈ",
+  "fonts": {
+    "subheading": "NotoSans",
+    "paragraph": "NudiParijathaBold"
+  },
   "content": [
     {
       "type": "paragraph",
