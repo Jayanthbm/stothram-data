@@ -4,7 +4,67 @@
       "id": 1,
       "title": "Arunaprashna",
       "displayTitle": "ಅರುಣಪ್ರಶ್ನಃ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/vedamantraha/Arunaprashna.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/vedamantraha/arunaprashna.json"
+    },
+    {
+      "id": 2,
+      "title": "Brahmanandavalli",
+      "displayTitle": "ಬ್ರಹ್ಮಾನಂದವಲ್ಲಿ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/vedamantraha/brahmanandavalli.json"
+    },
+    {
+      "id": 3,
+      "title": "Briguvalli",
+      "displayTitle": "ಭೃಗುವಲ್ಲಿ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/vedamantraha/briguvalli.json"
+    },
+    {
+      "id": 4,
+      "title": "ChamakaPrashnaha",
+      "displayTitle": "ಚಮಕ ಪ್ರಶ್ನಃ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/vedamantraha/chamaka-prashnaha.json"
+    },
+    {
+      "id": 5,
+      "title": "Dashashanthihi",
+      "displayTitle": "ದಶಶಾಂತಿಃ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/vedamantraha/dashashanthihi.json"
+    },
+    {
+      "id": 6,
+      "title": "Mahanarayanopanishath",
+      "displayTitle": "ಮಹಾನಾರಾಯಣೋಪನಿಷತ್",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/vedamantraha/mahanarayanopanishath.json"
+    },
+    {
+      "id": 7,
+      "title": "Mantrapushpam",
+      "displayTitle": "ಮಂತ್ರಪುಷ್ಪಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/vedamantraha/mantrapushpam.json"
+    },
+    {
+      "id": 8,
+      "title": "Narayanasuktham",
+      "displayTitle": "ನಾರಾಯಣಸೂಕ್ತಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/vedamantraha/narayanasuktham.json"
+    },
+    {
+      "id": 9,
+      "title": "Shikhshavalli",
+      "displayTitle": "ಶಿಕ್ಷಾವಲ್ಲಿ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/vedamantraha/shikhshavalli.json"
+    },
+    {
+      "id": 10,
+      "title": "Srisuktham",
+      "displayTitle": "ಶ್ರೀಸೂಕ್ತಂ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/vedamantraha/srisuktham.json"
+    },
+    {
+      "id": 11,
+      "title": "Udakashanthimantraha",
+      "displayTitle": "ಉದಕಶಾಂತಿ ಮಂತ್ರಃ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/vedamantraha/udakashanthi-mantraha.json"
     }
   ]
 }
