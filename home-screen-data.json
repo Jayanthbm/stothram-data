@@ -32,7 +32,7 @@
       "title": "MantraPuspam",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/mantrapushpam-data.json",
       "icon": "database",
-      "icon_new": "stack-exchange",
+      "icon_new": "script-text-outline",
       "darkBackground": "#878683",
       "lightBackground": "#1abc9c"
     },
@@ -41,7 +41,7 @@
       "title": "Ashirvada",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/ashirvadasambhavana-data.json",
       "icon": "database",
-      "icon_new": "stack-exchange",
+      "icon_new": "hands-pray",
       "darkBackground": "#878683",
       "lightBackground": "#1abc9c"
     },
@@ -50,7 +50,7 @@
       "title": "Prabandham",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/prabandham-data.json",
       "icon": "database",
-      "icon_new": "stack-exchange",
+      "icon_new": "book-multiple-outline",
       "darkBackground": "#878683",
       "lightBackground": "#1abc9c"
     }
