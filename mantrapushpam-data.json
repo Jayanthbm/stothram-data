@@ -5,13 +5,12 @@
       "title": "mantrapushpam",
       "displayTitle": "ವೇದೋಕ್ತ ಮನ್ತ್ರಪುಷ್ಪಂ",
       "dataUrl": "https://jayanthbm.github.io/stothram-data/data/mantrapushpam/vedokthamantrapushpam.json"
-    }, 
+    },
     {
       "id": 2,
       "title": "mantrapushpam",
       "displayTitle": "ಮನ್ತ್ರಪುಷ್ಪಂ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/mantrapushpam/Mantrapushpam.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/mantrapushpam/mantrapushpam.json"
     }
-    
   ]
 }
