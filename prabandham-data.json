@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Amaladipiran",
+      "displayTitle": "ಅಮಲನಾದಿಪಿರಾನ್",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/prabandham/amaladipiran.json"
+    },
+    {
+      "id": 2,
+      "title": "KanninunShiruttamb",
+      "displayTitle": "ಕಣ್ಣಿನುಣ್ ಶಿರುತ್ತಾಮ್ಬು",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/prabandham/kanninun-shiruttamb.json"
+    },
+    {
+      "id": 3,
+      "title": "Tirupalland",
+      "displayTitle": "ತಿರುಪ್ಪಲ್ಲಾಂಡು",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/prabandham/tirupalland.json"
+    },
+    {
+      "id": 4,
+      "title": "Tirupalliyucchi",
+      "displayTitle": "ತಿರುಪ್ಪಳ್ಳಿಯೆಳುಚ್ಚಿ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/prabandham/tirupalliyucchi.json"
+    },
+    {
+      "id": 5,
+      "title": "Tiruppavai",
+      "displayTitle": "ತಿರುಪ್ಪಾವೈ",
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/prabandham/tiruppavai.json"
+    }
+  ]
+}
