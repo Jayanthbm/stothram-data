@@ -2,13 +2,12 @@
   "title": "ಶಿರಿಯ ಶಾತ್ತುಮೊರೈ",
   "fonts": {
     "subheading": "NotoSans",
-    "paragraph": "NotoSerif"
+    "paragraph": "NudiParijathaBold"
   },
   "content": [
     {
       "type": "subheading",
-      "title": "Evening",
-      "fontFamily": "NotoSans"
+      "title": "Evening"
     },
     {
       "type": "paragraph",
@@ -25,8 +24,7 @@
     },
     {
       "type": "subheading",
-      "title": "Morning",
-      "fontFamily": "NotoSans"
+      "title": "Morning"
     },
     {
       "type": "paragraph",
