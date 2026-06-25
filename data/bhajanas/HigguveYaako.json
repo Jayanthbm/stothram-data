@@ -7,7 +7,9 @@
   "content": [
     {
       "type": "paragraph",
-      "lines": ["ಹಿಗ್ಗುವೆ ಯಾಕೋ ಈ ದೇಹಕ್ಕೆ ಹಿಗ್ಗುವೇ ಯಾಕೋ"]
+      "lines": [
+        "ಹಿಗ್ಗುವೆ ಯಾಕೋ ಈ ದೇಹಕ್ಕೆ ಹಿಗ್ಗುವೇ ಯಾಕೋ"
+      ]
     },
     {
       "type": "paragraph",
@@ -55,10 +57,16 @@
   "translations": {
     "kn": {
       "title": "ಹಿಗ್ಗುವೆ ಯಾಕೋ",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NudiParijathaBold"
+      },
       "content": [
         {
           "type": "paragraph",
-          "lines": ["ಹಿಗ್ಗುವೆ ಯಾಕೋ ಈ ದೇಹಕ್ಕೆ ಹಿಗ್ಗುವೇ ಯಾಕೋ"]
+          "lines": [
+            "ಹಿಗ್ಗುವೆ ಯಾಕೋ ಈ ದೇಹಕ್ಕೆ ಹಿಗ್ಗುವೇ ಯಾಕೋ"
+          ]
         },
         {
           "type": "paragraph",
@@ -106,10 +114,16 @@
     },
     "en": {
       "title": "Higguve Yaako",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NotoSans"
+      },
       "content": [
         {
           "type": "paragraph",
-          "lines": ["Higguve Yaako Ee Dehakke Higguve Yaako"]
+          "lines": [
+            "Higguve Yaako Ee Dehakke Higguve Yaako"
+          ]
         },
         {
           "type": "paragraph",

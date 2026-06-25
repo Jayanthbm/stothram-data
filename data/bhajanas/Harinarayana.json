@@ -7,11 +7,16 @@
   "content": [
     {
       "type": "paragraph",
-      "lines": ["ಹರಿನಾರಾಯಣ ದುರಿತ ನಿವಾರಣ, ದುರಿತ ನಿವಾರಣ ಹರಿನಾರಾಯಣ ಎನು ಮನವೆ"]
+      "lines": [
+        "ಹರಿನಾರಾಯಣ ದುರಿತ ನಿವಾರಣ, ದುರಿತ ನಿವಾರಣ ಹರಿನಾರಾಯಣ ಎನು ಮನವೆ"
+      ]
     },
     {
       "type": "paragraph",
-      "lines": ["ನಾರಾಯಣ ಎಂಬೋ ನಾಮದ ಬೀಜವ ನಾರದ ಬಿತ್ತಿದ ಧರೆಯೊಳಗೆ", "(ಹರಿನಾರಾಯಣ)"]
+      "lines": [
+        "ನಾರಾಯಣ ಎಂಬೋ ನಾಮದ ಬೀಜವ ನಾರದ ಬಿತ್ತಿದ ಧರೆಯೊಳಗೆ",
+        "(ಹರಿನಾರಾಯಣ)"
+      ]
     },
     {
       "type": "paragraph",
@@ -37,10 +42,16 @@
   "translations": {
     "kn": {
       "title": "ಹರಿನಾರಾಯಣ ದುರಿತ ನಿವಾರಣ",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NudiParijathaBold"
+      },
       "content": [
         {
           "type": "paragraph",
-          "lines": ["ಹರಿನಾರಾಯಣ ದುರಿತ ನಿವಾರಣ, ದುರಿತ ನಿವಾರಣ ಹರಿನಾರಾಯಣ ಎನು ಮನವೆ"]
+          "lines": [
+            "ಹರಿನಾರಾಯಣ ದುರಿತ ನಿವಾರಣ, ದುರಿತ ನಿವಾರಣ ಹರಿನಾರಾಯಣ ಎನು ಮನವೆ"
+          ]
         },
         {
           "type": "paragraph",
@@ -73,6 +84,10 @@
     },
     "en": {
       "title": "Harinarayana Durita Nivaarana",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NotoSans"
+      },
       "content": [
         {
           "type": "paragraph",

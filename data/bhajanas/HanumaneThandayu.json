@@ -64,6 +64,10 @@
   "translations": {
     "kn": {
       "title": "ಹನುಮನೆ ತಂದೆಯೂ",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NudiParijathaBold"
+      },
       "content": [
         {
           "type": "paragraph",
@@ -124,6 +128,10 @@
     },
     "en": {
       "title": "Hanumane Tandeyu",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NotoSans"
+      },
       "content": [
         {
           "type": "paragraph",

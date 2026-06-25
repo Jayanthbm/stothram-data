@@ -37,6 +37,10 @@
   "translations": {
     "kn": {
       "title": "ಶ್ರೀ ರಾಮ ಮಂಗಳ",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NudiParijathaBold"
+      },
       "content": [
         {
           "type": "paragraph",
@@ -70,6 +74,10 @@
     },
     "en": {
       "title": "Shri Rama Mangala",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NotoSans"
+      },
       "content": [
         {
           "type": "paragraph",

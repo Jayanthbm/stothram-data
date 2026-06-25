@@ -46,6 +46,10 @@
   "translations": {
     "kn": {
       "title": "ಹನುಮ ಬಿಡುವೇನೇನಯ್ಯಾ",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NudiParijathaBold"
+      },
       "content": [
         {
           "type": "paragraph",
@@ -88,6 +92,10 @@
     },
     "en": {
       "title": "Hanuma Biduvenenayya",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NotoSans"
+      },
       "content": [
         {
           "type": "paragraph",

@@ -78,6 +78,10 @@
   "translations": {
     "kn": {
       "title": "ರಾಧೇಶ್ಯಾಮ್‌ ರಾಧೇಶ್ಯಾಮ್",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NudiParijathaBold"
+      },
       "content": [
         {
           "type": "paragraph",
@@ -144,6 +148,10 @@
     },
     "en": {
       "title": "Radhe Shyam Radhe Shyam",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NotoSans"
+      },
       "content": [
         {
           "type": "paragraph",

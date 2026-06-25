@@ -85,6 +85,10 @@
   "translations": {
     "kn": {
       "title": "ಧೀರ ಮಾರುತಿ ಗಂಭೀರ ಮಾರುತಿ",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NudiParijathaBold"
+      },
       "content": [
         {
           "type": "paragraph",
@@ -166,6 +170,10 @@
     },
     "en": {
       "title": "Dheera Maruti Ghambeer Maruti",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NotoSans"
+      },
       "content": [
         {
           "type": "paragraph",

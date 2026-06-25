@@ -85,12 +85,19 @@
     },
     {
       "type": "paragraph",
-      "lines": ["ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ", "ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ"]
+      "lines": [
+        "ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ",
+        "ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ ವಿಟ್ಟಲ"
+      ]
     }
   ],
-  "translations":{
-    "kn":{
+  "translations": {
+    "kn": {
       "title": "ಜೈ ಜೈ ವಿಟ್ಟಲಾ ಪಾಂಡುರಂಗ",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NudiParijathaBold"
+      },
       "content": [
         {
           "type": "paragraph",
@@ -170,8 +177,12 @@
         }
       ]
     },
-    "en":{
+    "en": {
       "title": "Jai Jai Vittala Panduranga",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NotoSans"
+      },
       "content": [
         {
           "type": "paragraph",

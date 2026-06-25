@@ -48,8 +48,12 @@
     }
   ],
   "translations": {
-    "kn":{
+    "kn": {
       "title": "ರಾಮ ರಕ್ಷಿಸೋ",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NudiParijathaBold"
+      },
       "content": [
         {
           "type": "paragraph",
@@ -94,8 +98,12 @@
         }
       ]
     },
-    "en":{
+    "en": {
       "title": "Rama Rakshiso",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NotoSans"
+      },
       "content": [
         {
           "type": "paragraph",

@@ -47,9 +47,13 @@
       ]
     }
   ],
-  "translations":{
-    "kn":{
+  "translations": {
+    "kn": {
       "title": "ಶ್ರೀನಿವಾಸ ನೀನೇ ಪಾಲಿಸೋ",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NudiParijathaBold"
+      },
       "content": [
         {
           "type": "paragraph",
@@ -94,8 +98,12 @@
         }
       ]
     },
-    "en":{
+    "en": {
       "title": "Srinivasa Neene Paaliso",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NotoSans"
+      },
       "content": [
         {
           "type": "paragraph",

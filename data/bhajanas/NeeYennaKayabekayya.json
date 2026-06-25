@@ -28,6 +28,10 @@
   "translations": {
     "kn": {
       "title": "ನೀ ಎನ್ನ ಕಾಯಬೇಕಯ",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NudiParijathaBold"
+      },
       "content": [
         {
           "type": "paragraph",
@@ -52,6 +56,10 @@
     },
     "en": {
       "title": "Nee Enna Kaayabekayya",
+      "fonts": {
+        "subheading": "NotoSans",
+        "paragraph": "NotoSans"
+      },
       "content": [
         {
           "type": "paragraph",
