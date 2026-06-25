@@ -31,7 +31,7 @@
     {
       "type": "paragraph",
       "lines": [
-        "ಆಲದೆಲೆಯ ಮೇಲೆ ಶ್ರೀಲೋಲ ಮಲಗ್ಯಾನೆ",
+        "ಆಲದೆಲೆಯ ಮ್ಯಾಲೆ ಶ್ರೀಲೋಲ ಮಲಗ್ಯಾನೆ",
         "ನೀಲಕುಂತಳೆಯರು ತೂಗಿರೆ",
         "ವ್ಯಾಳಶಯನ ಹರಿ ಮಲಗು ಮಲಗೆಂದು",
         "ಬಾಲ ಕೃಷ್ಣಯ್ಯನ ತೂಗಿರೆ ||3||"
@@ -90,7 +90,7 @@
         {
           "type": "paragraph",
           "lines": [
-            "ಆಲದೆಲೆಯ ಮೇಲೆ ಶ್ರೀಲೋಲ ಮಲಗ್ಯಾನೆ",
+            "ಆಲದೆಲೆಯ ಮ್ಯಾಲೆ ಶ್ರೀಲೋಲ ಮಲಗ್ಯಾನೆ",
             "ನೀಲಕುಂತಳೆಯರು ತೂಗಿರೆ",
             "ವ್ಯಾಳಶಯನ ಹರಿ ಮಲಗು ಮಲಗೆಂದು",
             "ಬಾಲ ಕೃಷ್ಣಯ್ಯನ ತೂಗಿರೆ ||3||"
@@ -101,7 +101,7 @@
           "lines": [
             "ಸಾಸಿರ ನಾಮನೆ ಸರ್ವೋತ್ತಮನೆಂದು",
             "ಸೂಸುತ್ತ ತೊಟ್ಟಿಲ ತೂಗಿರೆ",
-            "ವಲೇಸಾಗಿ ಮಡುವಿನೊಳ್ ಶೇಷನ ತುಳಿದಿಟ್ಟ",
+            "ಲೇಸಾಗಿ ಮಡುವಿನೊಳ್ ಶೇಷನ ತುಳಿದಿಟ್ಟ",
             "ದೋಷ ವಿದೂರನ ತೂಗಿರೆ ||4||"
           ]
         },
@@ -153,7 +153,7 @@
           "type": "paragraph",
           "fontFamily": "NotoSans",
           "lines": [
-            "Aaladyeleya Mele Shreelola Malagyane",
+            "Aaladyeleya Myaale Shreelola Malagyane",
             "Neelakuntaleyaru Toogire",
             "Vyaalashayana Hari Malagu Malagendu",
             "Baala Krishnayyana Toogire ||3||"
@@ -165,7 +165,7 @@
           "lines": [
             "Saasira Naamane Sarvottamane Endu",
             "Soosutta Tottile Toogire",
-            "leSaagi Maduvinol Sheshana Tuliditta",
+            "LeSaagi Maduvinol Sheshana Tuliditta",
             "Dosha Vidoorana Toogire ||4||"
           ]
         },
