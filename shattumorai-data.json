@@ -4,19 +4,19 @@
       "id": 1,
       "title": "ChiriyaShattumorai",
       "displayTitle": "ಶಿರಿಯ ಶಾತ್ತುಮೊರೈ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/shattumorai/ChiriyaShattumorai.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/shattumorai/chiriya-shattumorai.json"
     },
     {
       "id": 2,
       "title": "PeriyaShattumorai",
       "displayTitle": "ಪೆರಿಯ ಶಾತ್ತುಮೊರೈ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/shattumorai/PeriyaShattumorai.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/shattumorai/periya-shattumorai.json"
     },
     {
       "id": 3,
       "title": "VedadiShattumorai",
       "displayTitle": "ವೇದಾದಿ ಶಾತ್ತುಮೊರೈ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/shattumorai/VedadiShattumaorai.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/shattumorai/vedadi-shattumaorai.json"
     }
   ]
 }
