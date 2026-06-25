@@ -4,19 +4,19 @@
       "id": 1,
       "title": "ashirvachana",
       "displayTitle": "ಆಶೀರ್ವಚನ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Ashirvadasambhavana/ashirvachana.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/ashirvadasambhavana/ashirvachana.json"
     },
     {
       "id": 2,
       "title": "swasthivachana",
       "displayTitle": "ಸ್ವಸ್ತಿವಾಚನ(ಆಶೀರ್ವಾದ ವಚನ ಗದ್ಯಮ್)",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Ashirvadasambhavana/swasthivachana.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/ashirvadasambhavana/swasthivachana.json"
     },
     {
       "id": 2,
       "title": "Puduvattu & sambhavana",
       "displayTitle": "ಪುದುವತ್ತು & ಸಂಭಾವನಾ",
-      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/Ashirvadasambhavana/puduvattu.json"
+      "dataUrl": "https://jayanthbm.github.io/stothram-data/data/ashirvadasambhavana/puduvattu.json"
     }
   ]
 }
